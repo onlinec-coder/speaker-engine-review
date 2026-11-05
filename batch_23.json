@@ -1,0 +1,220 @@
+{
+    "results": [
+        {
+            "subtitle_id": 881,
+            "speaker_id": "C009",
+            "speaker_name": "Lance Laurent",
+            "speaker_type": "character",
+            "confidence": "high",
+            "evidence": "Сонжмоор байж болох хүний үргэлжилсэн яриа ба дараах гар утгаас Lance-ийн үг болох нь харагдаж байна."
+        },
+        {
+            "subtitle_id": 882,
+            "speaker_id": "C009",
+            "speaker_name": "Lance Laurent",
+            "speaker_type": "character",
+            "confidence": "high",
+            "evidence": "Өмнөх мөрийн яриаг үргэлжлүүлж байна."
+        },
+        {
+            "subtitle_id": 883,
+            "speaker_id": "C009",
+            "speaker_name": "Lance Laurent",
+            "speaker_type": "character",
+            "confidence": "high",
+            "evidence": "Хүлээж чадна гэх утгатай үргэлжлэл диалог."
+        },
+        {
+            "subtitle_id": 884,
+            "speaker_id": "C001",
+            "speaker_name": "Vivienne",
+            "speaker_type": "character",
+            "confidence": "high",
+            "evidence": "Lance-ийн ярианд хариулж буй Vivienne-ийн богино үг."
+        },
+        {
+            "subtitle_id": 885,
+            "speaker_id": "C005",
+            "speaker_name": "Narrator",
+            "speaker_type": "narrator",
+            "confidence": "high",
+            "evidence": "POV дүрийн гаднын байр сууринаас хийсэн үйлдлийн тайлбар."
+        },
+        {
+            "subtitle_id": 886,
+            "speaker_id": "C005",
+            "speaker_name": "Narrator",
+            "speaker_type": "narrator",
+            "confidence": "high",
+            "evidence": "Орчин болон бусад хүний дуу хоолойг сонссон тухай өгүүлэмж."
+        },
+        {
+            "subtitle_id": 887,
+            "speaker_id": "C005",
+            "speaker_name": "Narrator",
+            "speaker_type": "narrator",
+            "confidence": "high",
+            "evidence": "Arya-ийн дуу хоолойн шинж чанарыг дүрсэлсэн хүүрнэл."
+        },
+        {
+            "subtitle_id": 888,
+            "speaker_id": "C006",
+            "speaker_name": "Arya",
+            "speaker_type": "character",
+            "confidence": "high",
+            "evidence": "Arya-ийн шууд яриа."
+        },
+        {
+            "subtitle_id": 889,
+            "speaker_id": "C006",
+            "speaker_name": "Arya",
+            "speaker_type": "character",
+            "confidence": "high",
+            "evidence": "Arya-ийн үргэлжилсэн шууд яриа."
+        },
+        {
+            "subtitle_id": 890,
+            "speaker_id": "C006",
+            "speaker_name": "Arya",
+            "speaker_type": "character",
+            "confidence": "high",
+            "evidence": "Luke-д хандан ярьж буй Arya-ийн яриа."
+        },
+        {
+            "subtitle_id": 891,
+            "speaker_id": "C010",
+            "speaker_name": "Luke Laurent",
+            "speaker_type": "character",
+            "confidence": "high",
+            "evidence": "Arya-ийн ярианд хариулж буй Luke-ийн үг."
+        },
+        {
+            "subtitle_id": 892,
+            "speaker_id": "C006",
+            "speaker_name": "Arya",
+            "speaker_type": "character",
+            "confidence": "high",
+            "evidence": "Luke-ийн хариуд Arya эргүүлэн хэлж байна."
+        },
+        {
+            "subtitle_id": 893,
+            "speaker_id": "C010",
+            "speaker_name": "Luke Laurent",
+            "speaker_type": "character",
+            "confidence": "high",
+            "evidence": "Luke-ийн яриа."
+        },
+        {
+            "subtitle_id": 894,
+            "speaker_id": "C010",
+            "speaker_name": "Luke Laurent",
+            "speaker_type": "character",
+            "confidence": "high",
+            "evidence": "Luke-ийн ярианы үргэлжлэл."
+        },
+        {
+            "subtitle_id": 895,
+            "speaker_id": "C006",
+            "speaker_name": "Arya",
+            "speaker_type": "character",
+            "confidence": "high",
+            "evidence": "Arya-ийн хариу үг."
+        },
+        {
+            "subtitle_id": 896,
+            "speaker_id": "C010",
+            "speaker_name": "Luke Laurent",
+            "speaker_type": "character",
+            "confidence": "high",
+            "evidence": "Luke-ийн хошигносон эсвэл тайван хариулт."
+        },
+        {
+            "subtitle_id": 897,
+            "speaker_id": "C005",
+            "speaker_name": "Narrator",
+            "speaker_type": "narrator",
+            "confidence": "high",
+            "evidence": "POV дүрийн харц болон үйлдлийг хүүрнэж байна."
+        },
+        {
+            "subtitle_id": 898,
+            "speaker_id": "C005",
+            "speaker_name": "Narrator",
+            "speaker_type": "narrator",
+            "confidence": "high",
+            "evidence": "Lance-ийн төлөв байдлыг тайлбарласан хүүрнэл."
+        },
+        {
+            "subtitle_id": 899,
+            "speaker_id": "C005",
+            "speaker_name": "Narrator",
+            "speaker_type": "narrator",
+            "confidence": "high",
+            "evidence": "POV дүрийн биеийн хөдөлгөөнийг дүрсэлсэн хүүрнэл."
+        },
+        {
+            "subtitle_id": 900,
+            "speaker_id": "C005",
+            "speaker_name": "Narrator",
+            "speaker_type": "narrator",
+            "confidence": "high",
+            "evidence": "Arya-ийн үйлдэл болон POV дүрийн харцыг хүүрнэж байна."
+        },
+        {
+            "subtitle_id": 901,
+            "speaker_id": "C001",
+            "speaker_name": "Vivienne",
+            "speaker_type": "character",
+            "confidence": "high",
+            "evidence": "Vivienne-ийн Arya руу хандан хэлж буй шууд яриа."
+        },
+        {
+            "subtitle_id": 902,
+            "speaker_id": "C001",
+            "speaker_name": "Vivienne",
+            "speaker_type": "character",
+            "confidence": "high",
+            "evidence": "Vivienne-ийн ярианы үргэлжлэл."
+        },
+        {
+            "subtitle_id": 903,
+            "speaker_id": "C005",
+            "speaker_name": "Narrator",
+            "speaker_type": "narrator",
+            "confidence": "high",
+            "evidence": "Arya-ийн реакцийг ажиглаж буй POV дүрийн хүүрнэл."
+        },
+        {
+            "subtitle_id": 904,
+            "speaker_id": "C005",
+            "speaker_name": "Narrator",
+            "speaker_type": "narrator",
+            "confidence": "high",
+            "evidence": "Arya-ийн царайнд илэрсэн өөрчлөлтийг хүүрнэж байна."
+        },
+        {
+            "subtitle_id": 905,
+            "speaker_id": "C005",
+            "speaker_name": "Narrator",
+            "speaker_type": "narrator",
+            "confidence": "high",
+            "evidence": "Arya-ийн дотоод мэдрэмжийн гаднын илрэлийг тайлбарласан хүүрнэл."
+        },
+        {
+            "subtitle_id": 906,
+            "speaker_id": "C005",
+            "speaker_name": "Narrator",
+            "speaker_type": "narrator",
+            "confidence": "high",
+            "evidence": "Arya-ийн хийсэн үйлдлийг дүрсэлсэн хүүрнэл."
+        },
+        {
+            "subtitle_id": 907,
+            "speaker_id": "C005",
+            "speaker_name": "Narrator",
+            "speaker_type": "narrator",
+            "confidence": "high",
+            "evidence": "POV дүрийн ажигласан зүйл буюூ Arya-ийн инээмсэглэлийг хүүрнэж байна."
+        }
+    ]
+}
