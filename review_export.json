@@ -2194,16 +2194,16 @@
     },
     {
       "subtitle_id": 281,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Context and subsequent lines show Arya speaking to Vivienne about their mother."
     },
     {
       "subtitle_id": 282,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Continuation of Arya's dialogue explaining past events."
@@ -2266,8 +2266,8 @@
     },
     {
       "subtitle_id": 290,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Arya responding to Vivienne's question."
@@ -2290,16 +2290,16 @@
     },
     {
       "subtitle_id": 293,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Arya answering Vivienne."
     },
     {
       "subtitle_id": 294,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Arya mentioning the specific cake."
@@ -2346,8 +2346,8 @@
     },
     {
       "subtitle_id": 300,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Arya commenting on the situation."
@@ -2418,40 +2418,40 @@
     },
     {
       "subtitle_id": 309,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Arya formulating a plan."
     },
     {
       "subtitle_id": 310,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Arya describing the woman."
     },
     {
       "subtitle_id": 311,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Arya proposing their counter-strategy."
     },
     {
       "subtitle_id": 312,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Arya repeating the name."
     },
     {
       "subtitle_id": 313,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Arya continuing the dialogue."
@@ -2490,16 +2490,16 @@
     },
     {
       "subtitle_id": 318,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Arya answering Vivienne's question about their mother."
     },
     {
       "subtitle_id": 319,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Arya explaining the plan."
@@ -3226,8 +3226,8 @@
     },
     {
       "subtitle_id": 419,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Аряагийн хариулт (context: Arya said)."
@@ -3498,8 +3498,8 @@
     },
     {
       "subtitle_id": 453,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Arya speaks directly to Vivienne, asking a question."
@@ -3522,8 +3522,8 @@
     },
     {
       "subtitle_id": 456,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Arya continues the conversation, asking 'And after?'"
@@ -4227,7 +4227,7 @@
     {
       "subtitle_id": 547,
       "speaker_id": "C013",
-      "speaker_name": "Luna Various",
+      "speaker_name": "Luna Valerius",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Luna Various-ийн Vivienne руу хандаж хэлж буй яриа."
@@ -4251,7 +4251,7 @@
     {
       "subtitle_id": 550,
       "speaker_id": "C013",
-      "speaker_name": "Luna Various",
+      "speaker_name": "Luna Valerius",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Luna Various-ийн яриа үргэлжилж байна."
@@ -4259,7 +4259,7 @@
     {
       "subtitle_id": 551,
       "speaker_id": "C013",
-      "speaker_name": "Luna Various",
+      "speaker_name": "Luna Valerius",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Luna Various-ийн яриа."
@@ -4315,7 +4315,7 @@
     {
       "subtitle_id": 558,
       "speaker_id": "C013",
-      "speaker_name": "Luna Various",
+      "speaker_name": "Luna Valerius",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Luna Various-ийн хариу яриа."
@@ -4323,7 +4323,7 @@
     {
       "subtitle_id": 559,
       "speaker_id": "C013",
-      "speaker_name": "Luna Various",
+      "speaker_name": "Luna Valerius",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Luna Various-ийн ярианы үргэлжлэл."
@@ -4331,7 +4331,7 @@
     {
       "subtitle_id": 560,
       "speaker_id": "C013",
-      "speaker_name": "Luna Various",
+      "speaker_name": "Luna Valerius",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Luna Various-ийн яриа."
@@ -4443,7 +4443,7 @@
     {
       "subtitle_id": 574,
       "speaker_id": "C013",
-      "speaker_name": "Luna Various",
+      "speaker_name": "Luna Valerius",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Luna Various speaks in confusion about the bride arriving in the convoy."
@@ -4555,7 +4555,7 @@
     {
       "subtitle_id": 588,
       "speaker_id": "C012",
-      "speaker_name": "Alpha Various",
+      "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Alpha Various speaks, pressing Lucian for answers."
@@ -4563,7 +4563,7 @@
     {
       "subtitle_id": 589,
       "speaker_id": "C012",
-      "speaker_name": "Alpha Various",
+      "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Alpha Various asks 'Who is she?'"
@@ -4611,7 +4611,7 @@
     {
       "subtitle_id": 595,
       "speaker_id": "C012",
-      "speaker_name": "Alpha Various",
+      "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Alpha Various challenges Lucian with 'Then what does it look like?'"
@@ -4747,7 +4747,7 @@
     {
       "subtitle_id": 612,
       "speaker_id": "C012",
-      "speaker_name": "Alpha Various",
+      "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Direct order given by Alpha Various to the nearest guard."
@@ -4763,7 +4763,7 @@
     {
       "subtitle_id": 614,
       "speaker_id": "C012",
-      "speaker_name": "Alpha Various",
+      "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Continuation of Alpha Various's direct command."
@@ -4859,7 +4859,7 @@
     {
       "subtitle_id": 626,
       "speaker_id": "C012",
-      "speaker_name": "Alpha Various",
+      "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Alpha Various addressing Vivienne directly."
@@ -4867,7 +4867,7 @@
     {
       "subtitle_id": 627,
       "speaker_id": "C012",
-      "speaker_name": "Alpha Various",
+      "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Continuation of Alpha Various's speech attempting to defuse the situation."
@@ -4875,7 +4875,7 @@
     {
       "subtitle_id": 628,
       "speaker_id": "C012",
-      "speaker_name": "Alpha Various",
+      "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Alpha Various continuing to persuade Vivienne to handle it quietly."
@@ -4883,7 +4883,7 @@
     {
       "subtitle_id": 629,
       "speaker_id": "C012",
-      "speaker_name": "Alpha Various",
+      "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Alpha Various stating that Lucian and Morgana are properly mated."
@@ -4891,7 +4891,7 @@
     {
       "subtitle_id": 630,
       "speaker_id": "C012",
-      "speaker_name": "Alpha Various",
+      "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Alpha Various proposing to move forward internally."
@@ -4907,7 +4907,7 @@
     {
       "subtitle_id": 632,
       "speaker_id": "C012",
-      "speaker_name": "Alpha Various",
+      "speaker_name": "Alpha Valeris",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Alpha Various concluding his speech about keeping the matter within walls."
@@ -4939,7 +4939,7 @@
     {
       "subtitle_id": 636,
       "speaker_id": "C013",
-      "speaker_name": "Luna Various",
+      "speaker_name": "Luna Valerius",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Luna Valerce/Various speaking directly to Vivienne in agreement."
@@ -4947,7 +4947,7 @@
     {
       "subtitle_id": 637,
       "speaker_id": "C013",
-      "speaker_name": "Luna Various",
+      "speaker_name": "Luna Valerius",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Luna Various addressing Vivienne as a sensible girl."
@@ -4955,7 +4955,7 @@
     {
       "subtitle_id": 638,
       "speaker_id": "C013",
-      "speaker_name": "Luna Various",
+      "speaker_name": "Luna Valerius",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Luna Various continuing her persuasive speech to Vivienne."
@@ -4963,7 +4963,7 @@
     {
       "subtitle_id": 639,
       "speaker_id": "C013",
-      "speaker_name": "Luna Various",
+      "speaker_name": "Luna Valerius",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Luna Various concluding her argument about discretion saving trouble."
@@ -5738,7 +5738,7 @@
     },
     {
       "subtitle_id": 737,
-      "speaker_id": "C015",
+      "speaker_id": "C014",
       "speaker_name": "Chief Elder Laurent",
       "speaker_type": "character",
       "confidence": "high",
@@ -5842,7 +5842,7 @@
     },
     {
       "subtitle_id": 750,
-      "speaker_id": "C015",
+      "speaker_id": "C014",
       "speaker_name": "Chief Elder Laurent",
       "speaker_type": "character",
       "confidence": "high",
@@ -5850,7 +5850,7 @@
     },
     {
       "subtitle_id": 751,
-      "speaker_id": "C015",
+      "speaker_id": "C014",
       "speaker_name": "Chief Elder Laurent",
       "speaker_type": "character",
       "confidence": "high",
@@ -5858,7 +5858,7 @@
     },
     {
       "subtitle_id": 752,
-      "speaker_id": "C015",
+      "speaker_id": "C014",
       "speaker_name": "Chief Elder Laurent",
       "speaker_type": "character",
       "confidence": "high",
@@ -5874,7 +5874,7 @@
     },
     {
       "subtitle_id": 754,
-      "speaker_id": "C015",
+      "speaker_id": "C014",
       "speaker_name": "Chief Elder Laurent",
       "speaker_type": "character",
       "confidence": "high",
@@ -5890,7 +5890,7 @@
     },
     {
       "subtitle_id": 756,
-      "speaker_id": "C015",
+      "speaker_id": "C014",
       "speaker_name": "Chief Elder Laurent",
       "speaker_type": "character",
       "confidence": "high",
@@ -5922,7 +5922,7 @@
     },
     {
       "subtitle_id": 760,
-      "speaker_id": "C015",
+      "speaker_id": "C014",
       "speaker_name": "Chief Elder Laurent",
       "speaker_type": "character",
       "confidence": "high",
@@ -5946,24 +5946,24 @@
     },
     {
       "subtitle_id": 763,
-      "speaker_id": "C017",
-      "speaker_name": "Laurent",
+      "speaker_id": "C014",
+      "speaker_name": "Chief Elder Laurent",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Өмнөх контекст дэх Laurent-ийн ярианы үргэлжлэл бөгөөд шууд яриа юм."
     },
     {
       "subtitle_id": 764,
-      "speaker_id": "C017",
-      "speaker_name": "Laurent",
+      "speaker_id": "C014",
+      "speaker_name": "Chief Elder Laurent",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Laurent-ийн ярианы үргэлжлэл."
     },
     {
       "subtitle_id": 765,
-      "speaker_id": "C017",
-      "speaker_name": "Laurent",
+      "speaker_id": "C014",
+      "speaker_name": "Chief Elder Laurent",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Laurent-ийн ярианы үргэлжлэл."
@@ -6010,8 +6010,8 @@
     },
     {
       "subtitle_id": 772,
-      "speaker_id": "C017",
-      "speaker_name": "Laurent",
+      "speaker_id": "C014",
+      "speaker_name": "Chief Elder Laurent",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Laurent-ийн ярианы үргэлжлэл."
@@ -6586,16 +6586,16 @@
     },
     {
       "subtitle_id": 844,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Arya straightened up хийсний дараах яриа."
     },
     {
       "subtitle_id": 845,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Arya-гийн ярианы үргэлжлэл."
@@ -6642,8 +6642,8 @@
     },
     {
       "subtitle_id": 859,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Arya-гийн асууж буй шууд яриа."
@@ -6658,8 +6658,8 @@
     },
     {
       "subtitle_id": 861,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Arya-гийн өгсөн хариу үйлдэл/яриа."
@@ -6874,24 +6874,24 @@
     },
     {
       "subtitle_id": 888,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Arya-ийн шууд яриа."
     },
     {
       "subtitle_id": 889,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Arya-ийн үргэлжилсэн шууд яриа."
     },
     {
       "subtitle_id": 890,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Luke-д хандан ярьж буй Arya-ийн яриа."
@@ -6906,8 +6906,8 @@
     },
     {
       "subtitle_id": 892,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Luke-ийн хариуд Arya эргүүлэн хэлж байна."
@@ -6930,8 +6930,8 @@
     },
     {
       "subtitle_id": 895,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Arya-ийн хариу үг."
@@ -7188,8 +7188,8 @@
     },
     {
       "subtitle_id": 770,
-      "speaker_id": "C017",
-      "speaker_name": "Laurent",
+      "speaker_id": "C014",
+      "speaker_name": "Chief Elder Laurent",
       "speaker_type": "character",
       "confidence": "medium",
       "evidence": "Laurent-ийн яриа үргэлжилж байна."
@@ -7204,32 +7204,32 @@
     },
     {
       "subtitle_id": 850,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "medium",
       "evidence": "Arya-гийн Vivienne-д хандаж ярьж буй яриа."
     },
     {
       "subtitle_id": 851,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "medium",
       "evidence": "Ярианы давталт."
     },
     {
       "subtitle_id": 852,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "medium",
       "evidence": "Ярианы явцад нэрийг дуудаж буй байдал."
     },
     {
       "subtitle_id": 853,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "medium",
       "evidence": "Ярианы үргэлжлэл."

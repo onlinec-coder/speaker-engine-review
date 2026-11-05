@@ -1,32 +1,32 @@
 [
   {
     "subtitle_id": 850,
-    "speaker_id": "C006",
-    "speaker_name": "Arya",
+    "speaker_id": "C003",
+    "speaker_name": "Aria",
     "speaker_type": "character",
     "confidence": "medium",
     "evidence": "Arya-гийн Vivienne-д хандаж ярьж буй яриа."
   },
   {
     "subtitle_id": 851,
-    "speaker_id": "C006",
-    "speaker_name": "Arya",
+    "speaker_id": "C003",
+    "speaker_name": "Aria",
     "speaker_type": "character",
     "confidence": "medium",
     "evidence": "Ярианы давталт."
   },
   {
     "subtitle_id": 852,
-    "speaker_id": "C006",
-    "speaker_name": "Arya",
+    "speaker_id": "C003",
+    "speaker_name": "Aria",
     "speaker_type": "character",
     "confidence": "medium",
     "evidence": "Ярианы явцад нэрийг дуудаж буй байдал."
   },
   {
     "subtitle_id": 853,
-    "speaker_id": "C006",
-    "speaker_name": "Arya",
+    "speaker_id": "C003",
+    "speaker_name": "Aria",
     "speaker_type": "character",
     "confidence": "medium",
     "evidence": "Ярианы үргэлжлэл."
@@ -73,8 +73,8 @@
   },
   {
     "subtitle_id": 859,
-    "speaker_id": "C006",
-    "speaker_name": "Arya",
+    "speaker_id": "C003",
+    "speaker_name": "Aria",
     "speaker_type": "character",
     "confidence": "high",
     "evidence": "Arya-гийн асууж буй шууд яриа."
