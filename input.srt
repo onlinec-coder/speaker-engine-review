@@ -3827,35 +3827,38 @@ He was already smiling.
 I turned toward the sitting room doorway.
 
 900
-00:37:21,781 --> 00:37:23,780
-Arya, she looked at me.
+00:37:21,781 --> 00:37:23,500
+Arya,
 
 901
+00:37:23,501 --> 00:37:23,780
+she looked at me.
+
+902
 00:37:23,781 --> 00:37:24,780
 Deal.
 
-902
+903
 00:37:24,781 --> 00:37:26,780
 But this time we both win.
 
-903
+904
 00:37:26,781 --> 00:37:28,780
 She stared at me for a second.
 
-904
+905
 00:37:28,781 --> 00:37:30,780
 Then something crossed her face.
 
-905
+906
 00:37:30,781 --> 00:37:32,780
 Soft and real under all the sharp edges.
 
-906
+907
 00:37:32,781 --> 00:37:36,780
 She grabbed Luke's arm and turned back
 to the window like she hadn't heard me.
 
-907
+908
 00:37:36,781 --> 00:37:38,780
 But she was smiling.
-
