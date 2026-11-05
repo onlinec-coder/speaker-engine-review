@@ -215,6 +215,14 @@
       "speaker_type": "narrator",
       "confidence": "high",
       "evidence": "POV дүрийн ажигласан зүйл буюூ Arya-ийн инээмсэглэлийг хүүрнэж байна."
+    },
+    {
+      "subtitle_id": 908,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "907-р мөрийн хүүрнэлтэй нэг POV өгүүлэмж үргэлжилж байна; Arya инээмсэглэж байсныг хүүрнэгч дүрсэлж байна."
     }
   ]
 }
