@@ -1,324 +1,324 @@
 {
-    "results": [
-        {
-            "subtitle_id": 841,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
-            "confidence": "high",
-            "evidence": "Контекстийн үргэлжлэл бөгөөд Vivienne-ийн өөрийн бодол, дүгнэлтийг илэрхийлж байна."
-        },
-        {
-            "subtitle_id": 842,
-            "speaker_id": "C005",
-            "speaker_name": "Narrator",
-            "speaker_type": "narrator",
-            "confidence": "high",
-            "evidence": "Гаднаас үйл явдлыг өгүүлж буй хүүрнэл."
-        },
-        {
-            "subtitle_id": 843,
-            "speaker_id": "C005",
-            "speaker_name": "Narrator",
-            "speaker_type": "narrator",
-            "confidence": "high",
-            "evidence": "Arya-гийн үйлдлийг гаднаас тайлбарласан хүүрнэл."
-        },
-        {
-            "subtitle_id": 844,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Arya straightened up хийсний дараах яриа."
-        },
-        {
-            "subtitle_id": 845,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Arya-гийн ярианы үргэлжлэл."
-        },
-        {
-            "subtitle_id": 846,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "character",
-            "confidence": "medium",
-            "evidence": "Өмнөх ярианд хариулж буй Vivienne-ийн реплик."
-        },
-        {
-            "subtitle_id": 847,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
-            "confidence": "high",
-            "evidence": "Vivienne-ийн дотоод үйлдлийг тэмдэглэсэн хүүрнэл/бодол."
-        },
-        {
-            "subtitle_id": 848,
-            "speaker_id": "C005",
-            "speaker_name": "Narrator",
-            "speaker_type": "narrator",
-            "confidence": "high",
-            "evidence": "Дүрийн гаднах үйлдлийг өгүүлсэн хүүрнэл."
-        },
-        {
-            "subtitle_id": 849,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
-            "confidence": "high",
-            "evidence": "Vivienne-ийн дотоод үнэлгээ."
-        },
-        {
-            "subtitle_id": 850,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
-            "speaker_type": "character",
-            "confidence": "medium",
-            "evidence": "Arya-гийн Vivienne-д хандаж ярьж буй яриа."
-        },
-        {
-            "subtitle_id": 851,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
-            "speaker_type": "character",
-            "confidence": "medium",
-            "evidence": "Ярианы давталт."
-        },
-        {
-            "subtitle_id": 852,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
-            "speaker_type": "character",
-            "confidence": "medium",
-            "evidence": "Ярианы явцад нэрийг дуудаж буй байдал."
-        },
-        {
-            "subtitle_id": 853,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
-            "speaker_type": "character",
-            "confidence": "medium",
-            "evidence": "Ярианы үргэлжлэл."
-        },
-        {
-            "subtitle_id": 854,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "character",
-            "confidence": "medium",
-            "evidence": "Vivienne өөрт тохиолдсоныг ярьж байна."
-        },
-        {
-            "subtitle_id": 855,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "character",
-            "confidence": "medium",
-            "evidence": "Vivienne-ийн ярианы үргэлжлэл."
-        },
-        {
-            "subtitle_id": 856,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
-            "confidence": "high",
-            "evidence": "POV дүрийн дотоод завсарлага."
-        },
-        {
-            "subtitle_id": 857,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "character",
-            "confidence": "medium",
-            "evidence": "Ярианы үргэлжлэл."
-        },
-        {
-            "subtitle_id": 858,
-            "speaker_id": "C005",
-            "speaker_name": "Narrator",
-            "speaker_type": "narrator",
-            "confidence": "high",
-            "evidence": "Arya-гийн үйлдлийг харуулсан хүүрнэл."
-        },
-        {
-            "subtitle_id": 859,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Arya-гийн асууж буй шууд яриа."
-        },
-        {
-            "subtitle_id": 860,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Vivienne-ийн хариулт."
-        },
-        {
-            "subtitle_id": 861,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Arya-гийн өгсөн хариу үйлдэл/яриа."
-        },
-        {
-            "subtitle_id": 862,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Vivienne-ийн үг."
-        },
-        {
-            "subtitle_id": 863,
-            "speaker_id": "C005",
-            "speaker_name": "Narrator",
-            "speaker_type": "narrator",
-            "confidence": "high",
-            "evidence": "Өгүүлэгчийн тайлбар."
-        },
-        {
-            "subtitle_id": 864,
-            "speaker_id": "C005",
-            "speaker_name": "Narrator",
-            "speaker_type": "narrator",
-            "confidence": "high",
-            "evidence": "Дүрийн царайны хувирлыг өгүүлсэн хүүрнэл."
-        },
-        {
-            "subtitle_id": 865,
-            "speaker_id": "C005",
-            "speaker_name": "Narrator",
-            "speaker_type": "narrator",
-            "confidence": "high",
-            "evidence": "Үйл явдлын өрнөлийг тайлбарласан хүүрнэл."
-        },
-        {
-            "subtitle_id": 866,
-            "speaker_id": "C005",
-            "speaker_name": "Narrator",
-            "speaker_type": "narrator",
-            "confidence": "high",
-            "evidence": "Хүүрнэлийн үргэлжлэл."
-        },
-        {
-            "subtitle_id": 867,
-            "speaker_id": "C005",
-            "speaker_name": "Narrator",
-            "speaker_type": "narrator",
-            "confidence": "high",
-            "evidence": "Хүүрнэлийн үргэлжлэл."
-        },
-        {
-            "subtitle_id": 868,
-            "speaker_id": "C005",
-            "speaker_name": "Narrator",
-            "speaker_type": "narrator",
-            "confidence": "high",
-            "evidence": "Үйл явдлыг хүүрнэж буй хэсэг."
-        },
-        {
-            "subtitle_id": 869,
-            "speaker_id": "C005",
-            "speaker_name": "Narrator",
-            "speaker_type": "narrator",
-            "confidence": "high",
-            "evidence": "Үйл явдлын хүүрнэл."
-        },
-        {
-            "subtitle_id": 870,
-            "speaker_id": "C005",
-            "speaker_name": "Narrator",
-            "speaker_type": "narrator",
-            "confidence": "high",
-            "evidence": "Дүрийн үйлдлийг өгүүлсэн хүүрнэл."
-        },
-        {
-            "subtitle_id": 871,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
-            "confidence": "high",
-            "evidence": "POV дүрийн дотоод мэдрэмж, үйлдэл."
-        },
-        {
-            "subtitle_id": 872,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
-            "confidence": "high",
-            "evidence": "Vivienne-ийн дотоод ажиглалт."
-        },
-        {
-            "subtitle_id": 873,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
-            "confidence": "high",
-            "evidence": "Vivienne-ийн дотоод бодол."
-        },
-        {
-            "subtitle_id": 874,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
-            "confidence": "high",
-            "evidence": "Vivienne-ийн дотоод бодол."
-        },
-        {
-            "subtitle_id": 875,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
-            "confidence": "high",
-            "evidence": "Vivienne-ийн дотоод мэдрэмжийн үнэлгээ."
-        },
-        {
-            "subtitle_id": 876,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
-            "confidence": "high",
-            "evidence": "Vivienne-ийн дотоод бодол."
-        },
-        {
-            "subtitle_id": 877,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
-            "confidence": "high",
-            "evidence": "Зүрхний цохилт болон мэдрэмжийг дүрсэлсэн дотоод өгүүлэмж."
-        },
-        {
-            "subtitle_id": 878,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
-            "confidence": "high",
-            "evidence": "Lucian-тай харьцуулсан дотоод бодол."
-        },
-        {
-            "subtitle_id": 879,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
-            "confidence": "high",
-            "evidence": "Дотоод мэдрэмжийн илэрхийлэл."
-        },
-        {
-            "subtitle_id": 880,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
-            "confidence": "high",
-            "evidence": "Vivienne-ийн дотоод дүгнэлт."
-        }
-    ]
+  "results": [
+    {
+      "subtitle_id": 841,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "inner_monologue",
+      "confidence": "high",
+      "evidence": "Контекстийн үргэлжлэл бөгөөд Vivienne-ийн өөрийн бодол, дүгнэлтийг илэрхийлж байна."
+    },
+    {
+      "subtitle_id": 842,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "Гаднаас үйл явдлыг өгүүлж буй хүүрнэл."
+    },
+    {
+      "subtitle_id": 843,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "Arya-гийн үйлдлийг гаднаас тайлбарласан хүүрнэл."
+    },
+    {
+      "subtitle_id": 844,
+      "speaker_id": "C006",
+      "speaker_name": "Arya",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Arya straightened up хийсний дараах яриа."
+    },
+    {
+      "subtitle_id": 845,
+      "speaker_id": "C006",
+      "speaker_name": "Arya",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Arya-гийн ярианы үргэлжлэл."
+    },
+    {
+      "subtitle_id": 846,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "character",
+      "confidence": "medium",
+      "evidence": "Өмнөх ярианд хариулж буй Vivienne-ийн реплик."
+    },
+    {
+      "subtitle_id": 847,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "inner_monologue",
+      "confidence": "high",
+      "evidence": "Vivienne-ийн дотоод үйлдлийг тэмдэглэсэн хүүрнэл/бодол."
+    },
+    {
+      "subtitle_id": 848,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "Дүрийн гаднах үйлдлийг өгүүлсэн хүүрнэл."
+    },
+    {
+      "subtitle_id": 849,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "inner_monologue",
+      "confidence": "high",
+      "evidence": "Vivienne-ийн дотоод үнэлгээ."
+    },
+    {
+      "subtitle_id": 850,
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
+      "speaker_type": "character",
+      "confidence": "medium",
+      "evidence": "Arya-гийн Vivienne-д хандаж ярьж буй яриа."
+    },
+    {
+      "subtitle_id": 851,
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
+      "speaker_type": "character",
+      "confidence": "medium",
+      "evidence": "Ярианы давталт."
+    },
+    {
+      "subtitle_id": 852,
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
+      "speaker_type": "character",
+      "confidence": "medium",
+      "evidence": "Ярианы явцад нэрийг дуудаж буй байдал."
+    },
+    {
+      "subtitle_id": 853,
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
+      "speaker_type": "character",
+      "confidence": "medium",
+      "evidence": "Ярианы үргэлжлэл."
+    },
+    {
+      "subtitle_id": 854,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "character",
+      "confidence": "medium",
+      "evidence": "Vivienne өөрт тохиолдсоныг ярьж байна."
+    },
+    {
+      "subtitle_id": 855,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "character",
+      "confidence": "medium",
+      "evidence": "Vivienne-ийн ярианы үргэлжлэл."
+    },
+    {
+      "subtitle_id": 856,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "inner_monologue",
+      "confidence": "high",
+      "evidence": "POV дүрийн дотоод завсарлага."
+    },
+    {
+      "subtitle_id": 857,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "character",
+      "confidence": "medium",
+      "evidence": "Ярианы үргэлжлэл."
+    },
+    {
+      "subtitle_id": 858,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "Arya-гийн үйлдлийг харуулсан хүүрнэл."
+    },
+    {
+      "subtitle_id": 859,
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Arya-гийн асууж буй шууд яриа."
+    },
+    {
+      "subtitle_id": 860,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Vivienne-ийн хариулт."
+    },
+    {
+      "subtitle_id": 861,
+      "speaker_id": "C006",
+      "speaker_name": "Arya",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Arya-гийн өгсөн хариу үйлдэл/яриа."
+    },
+    {
+      "subtitle_id": 862,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Vivienne-ийн үг."
+    },
+    {
+      "subtitle_id": 863,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "Өгүүлэгчийн тайлбар."
+    },
+    {
+      "subtitle_id": 864,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "Дүрийн царайны хувирлыг өгүүлсэн хүүрнэл."
+    },
+    {
+      "subtitle_id": 865,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "Үйл явдлын өрнөлийг тайлбарласан хүүрнэл."
+    },
+    {
+      "subtitle_id": 866,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "Хүүрнэлийн үргэлжлэл."
+    },
+    {
+      "subtitle_id": 867,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "Хүүрнэлийн үргэлжлэл."
+    },
+    {
+      "subtitle_id": 868,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "Үйл явдлыг хүүрнэж буй хэсэг."
+    },
+    {
+      "subtitle_id": 869,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "Үйл явдлын хүүрнэл."
+    },
+    {
+      "subtitle_id": 870,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "Дүрийн үйлдлийг өгүүлсэн хүүрнэл."
+    },
+    {
+      "subtitle_id": 871,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "870-аас 871 рүү шилжихэд дуу хоолой өөрчлөгдөөгүй; хүүрнэгчийн үргэлжилсэн өгүүлэмж."
+    },
+    {
+      "subtitle_id": 872,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "870-аас 871 рүү шилжихэд дуу хоолой өөрчлөгдөөгүй; хүүрнэгчийн үргэлжилсэн өгүүлэмж."
+    },
+    {
+      "subtitle_id": 873,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "870-аас 871 рүү шилжихэд дуу хоолой өөрчлөгдөөгүй; хүүрнэгчийн үргэлжилсэн өгүүлэмж."
+    },
+    {
+      "subtitle_id": 874,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "870-аас 871 рүү шилжихэд дуу хоолой өөрчлөгдөөгүй; хүүрнэгчийн үргэлжилсэн өгүүлэмж."
+    },
+    {
+      "subtitle_id": 875,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "870-аас 871 рүү шилжихэд дуу хоолой өөрчлөгдөөгүй; хүүрнэгчийн үргэлжилсэн өгүүлэмж."
+    },
+    {
+      "subtitle_id": 876,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "870-аас 871 рүү шилжихэд дуу хоолой өөрчлөгдөөгүй; хүүрнэгчийн үргэлжилсэн өгүүлэмж."
+    },
+    {
+      "subtitle_id": 877,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "870-аас 871 рүү шилжихэд дуу хоолой өөрчлөгдөөгүй; хүүрнэгчийн үргэлжилсэн өгүүлэмж."
+    },
+    {
+      "subtitle_id": 878,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "870-аас 871 рүү шилжихэд дуу хоолой өөрчлөгдөөгүй; хүүрнэгчийн үргэлжилсэн өгүүлэмж."
+    },
+    {
+      "subtitle_id": 879,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "870-аас 871 рүү шилжихэд дуу хоолой өөрчлөгдөөгүй; хүүрнэгчийн үргэлжилсэн өгүүлэмж."
+    },
+    {
+      "subtitle_id": 880,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "870-аас 871 рүү шилжихэд дуу хоолой өөрчлөгдөөгүй; хүүрнэгчийн үргэлжилсэн өгүүлэмж."
+    }
+  ]
 }
