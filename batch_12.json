@@ -1,0 +1,324 @@
+{
+    "results": [
+        {
+            "subtitle_id": 441,
+            "speaker_id": "C002",
+            "speaker_name": "Lucian",
+            "speaker_type": "character",
+            "confidence": "high",
+            "evidence": "Lucian arrives and asks about Vivienne's whereabouts."
+        },
+        {
+            "subtitle_id": 442,
+            "speaker_id": "C004",
+            "speaker_name": "Mother",
+            "speaker_type": "character",
+            "confidence": "high",
+            "evidence": "Mother responds to Lucian's question about Vivienne."
+        },
+        {
+            "subtitle_id": 443,
+            "speaker_id": "C004",
+            "speaker_name": "Mother",
+            "speaker_type": "character",
+            "confidence": "high",
+            "evidence": "Mother continues explaining Vivienne's preference for privacy."
+        },
+        {
+            "subtitle_id": 444,
+            "speaker_id": "C005",
+            "speaker_name": "Narrator",
+            "speaker_type": "narrator",
+            "confidence": "high",
+            "evidence": "Describes Lucian's physical action."
+        },
+        {
+            "subtitle_id": 445,
+            "speaker_id": "C005",
+            "speaker_name": "Narrator",
+            "speaker_type": "narrator",
+            "confidence": "high",
+            "evidence": "Describes Lucian walking to Morgana and holding out his hand."
+        },
+        {
+            "subtitle_id": 446,
+            "speaker_id": "C005",
+            "speaker_name": "Narrator",
+            "speaker_type": "narrator",
+            "confidence": "high",
+            "evidence": "Describes Morgana and Lucian's actions without hesitation."
+        },
+        {
+            "subtitle_id": 447,
+            "speaker_id": "C005",
+            "speaker_name": "Narrator",
+            "speaker_type": "narrator",
+            "confidence": "high",
+            "evidence": "Narrates the sequence of actions."
+        },
+        {
+            "subtitle_id": 448,
+            "speaker_id": "C005",
+            "speaker_name": "Narrator",
+            "speaker_type": "narrator",
+            "confidence": "high",
+            "evidence": "Narrates Lucian's lack of awareness."
+        },
+        {
+            "subtitle_id": 449,
+            "speaker_id": "C005",
+            "speaker_name": "Narrator",
+            "speaker_type": "narrator",
+            "confidence": "high",
+            "evidence": "Describes the motorcade pulling away."
+        },
+        {
+            "subtitle_id": 450,
+            "speaker_id": "C001",
+            "speaker_name": "Vivienne",
+            "speaker_type": "inner_monologue",
+            "confidence": "high",
+            "evidence": "First-person perspective ('I stood at the gate') reflecting the protagonist's ongoing inner narrative."
+        },
+        {
+            "subtitle_id": 451,
+            "speaker_id": "C001",
+            "speaker_name": "Vivienne",
+            "speaker_type": "inner_monologue",
+            "confidence": "high",
+            "evidence": "First-person narrative describing Arya's appearance beside her."
+        },
+        {
+            "subtitle_id": 452,
+            "speaker_id": "C001",
+            "speaker_name": "Vivienne",
+            "speaker_type": "inner_monologue",
+            "confidence": "high",
+            "evidence": "First-person narrative describing Arya's silence."
+        },
+        {
+            "subtitle_id": 453,
+            "speaker_id": "C006",
+            "speaker_name": "Arya",
+            "speaker_type": "character",
+            "confidence": "high",
+            "evidence": "Arya speaks directly to Vivienne, asking a question."
+        },
+        {
+            "subtitle_id": 454,
+            "speaker_id": "C001",
+            "speaker_name": "Vivienne",
+            "speaker_type": "character",
+            "confidence": "high",
+            "evidence": "Vivienne answers Arya's question."
+        },
+        {
+            "subtitle_id": 455,
+            "speaker_id": "C001",
+            "speaker_name": "Vivienne",
+            "speaker_type": "inner_monologue",
+            "confidence": "high",
+            "evidence": "First-person narrative observation of Arya almost smiling."
+        },
+        {
+            "subtitle_id": 456,
+            "speaker_id": "C006",
+            "speaker_name": "Arya",
+            "speaker_type": "character",
+            "confidence": "high",
+            "evidence": "Arya continues the conversation, asking 'And after?'"
+        },
+        {
+            "subtitle_id": 457,
+            "speaker_id": "C001",
+            "speaker_name": "Vivienne",
+            "speaker_type": "inner_monologue",
+            "confidence": "high",
+            "evidence": "First-person narrative action ('I turned back toward the house')."
+        },
+        {
+            "subtitle_id": 458,
+            "speaker_id": "C001",
+            "speaker_name": "Vivienne",
+            "speaker_type": "character",
+            "confidence": "medium",
+            "evidence": "Spoken dialogue responding to Arya's previous question."
+        },
+        {
+            "subtitle_id": 459,
+            "speaker_id": "C001",
+            "speaker_name": "Vivienne",
+            "speaker_type": "character",
+            "confidence": "medium",
+            "evidence": "Continuation of Vivienne's spoken dialogue."
+        },
+        {
+            "subtitle_id": 460,
+            "speaker_id": "C001",
+            "speaker_name": "Vivienne",
+            "speaker_type": "inner_monologue",
+            "confidence": "medium",
+            "evidence": "First-person inner reflection on being grabbed."
+        },
+        {
+            "subtitle_id": 461,
+            "speaker_id": "C001",
+            "speaker_name": "Vivienne",
+            "speaker_type": "inner_monologue",
+            "confidence": "high",
+            "evidence": "First-person recounting of events involving herself and Arya ('Arya and I had gone out')."
+        },
+        {
+            "subtitle_id": 462,
+            "speaker_id": "C001",
+            "speaker_name": "Vivienne",
+            "speaker_type": "inner_monologue",
+            "confidence": "high",
+            "evidence": "First-person narrative memory of waiting at the cafe."
+        },
+        {
+            "subtitle_id": 463,
+            "speaker_id": "C001",
+            "speaker_name": "Vivienne",
+            "speaker_type": "inner_monologue",
+            "confidence": "high",
+            "evidence": "First-person recounting of the ambush."
+        },
+        {
+            "subtitle_id": 464,
+            "speaker_id": "C001",
+            "speaker_name": "Vivienne",
+            "speaker_type": "inner_monologue",
+            "confidence": "high",
+            "evidence": "First-person description of being attacked."
+        },
+        {
+            "subtitle_id": 465,
+            "speaker_id": "C001",
+            "speaker_name": "Vivienne",
+            "speaker_type": "inner_monologue",
+            "confidence": "high",
+            "evidence": "First-person description of the attack continuing."
+        },
+        {
+            "subtitle_id": 466,
+            "speaker_id": "C001",
+            "speaker_name": "Vivienne",
+            "speaker_type": "inner_monologue",
+            "confidence": "high",
+            "evidence": "First-person inner account of fighting back ('I released my inner wolf')."
+        },
+        {
+            "subtitle_id": 467,
+            "speaker_id": "C001",
+            "speaker_name": "Vivienne",
+            "speaker_type": "inner_monologue",
+            "confidence": "high",
+            "evidence": "First-person recollection of being knocked out."
+        },
+        {
+            "subtitle_id": 468,
+            "speaker_id": "C001",
+            "speaker_name": "Vivienne",
+            "speaker_type": "inner_monologue",
+            "confidence": "high",
+            "evidence": "First-person narrative of waking up."
+        },
+        {
+            "subtitle_id": 469,
+            "speaker_id": "C001",
+            "speaker_name": "Vivienne",
+            "speaker_type": "inner_monologue",
+            "confidence": "high",
+            "evidence": "First-person realization of her location."
+        },
+        {
+            "subtitle_id": 470,
+            "speaker_id": "C001",
+            "speaker_name": "Vivienne",
+            "speaker_type": "inner_monologue",
+            "confidence": "high",
+            "evidence": "First-person observation of Lucian sitting on the bed."
+        },
+        {
+            "subtitle_id": 471,
+            "speaker_id": "C001",
+            "speaker_name": "Vivienne",
+            "speaker_type": "inner_monologue",
+            "confidence": "high",
+            "evidence": "First-person observation of Lucian's red eyes."
+        },
+        {
+            "subtitle_id": 472,
+            "speaker_id": "C001",
+            "speaker_name": "Vivienne",
+            "speaker_type": "inner_monologue",
+            "confidence": "high",
+            "evidence": "First-person inner clarification."
+        },
+        {
+            "subtitle_id": 473,
+            "speaker_id": "C001",
+            "speaker_name": "Vivienne",
+            "speaker_type": "inner_monologue",
+            "confidence": "high",
+            "evidence": "First-person subjective evaluation of Lucian's expression."
+        },
+        {
+            "subtitle_id": 474,
+            "speaker_id": "C001",
+            "speaker_name": "Vivienne",
+            "speaker_type": "inner_monologue",
+            "confidence": "high",
+            "evidence": "First-person memory comparison of Lucian's gaze."
+        },
+        {
+            "subtitle_id": 475,
+            "speaker_id": "C001",
+            "speaker_name": "Vivienne",
+            "speaker_type": "inner_monologue",
+            "confidence": "high",
+            "evidence": "First-person reiteration of his gaze."
+        },
+        {
+            "subtitle_id": 476,
+            "speaker_id": "C001",
+            "speaker_name": "Vivienne",
+            "speaker_type": "inner_monologue",
+            "confidence": "high",
+            "evidence": "First-person inner comparison to territory disputes."
+        },
+        {
+            "subtitle_id": 477,
+            "speaker_id": "C001",
+            "speaker_name": "Vivienne",
+            "speaker_type": "inner_monologue",
+            "confidence": "high",
+            "evidence": "First-person inner assessment of Lucian's intent."
+        },
+        {
+            "subtitle_id": 478,
+            "speaker_id": "C002",
+            "speaker_name": "Lucian",
+            "speaker_type": "character",
+            "confidence": "high",
+            "evidence": "Lucian speaks directly to Vivienne demanding an explanation."
+        },
+        {
+            "subtitle_id": 479,
+            "speaker_id": "C001",
+            "speaker_name": "Vivienne",
+            "speaker_type": "inner_monologue",
+            "confidence": "high",
+            "evidence": "First-person narrative action ('I sat up slowly')."
+        },
+        {
+            "subtitle_id": 480,
+            "speaker_id": "C001",
+            "speaker_name": "Vivienne",
+            "speaker_type": "inner_monologue",
+            "confidence": "high",
+            "evidence": "First-person physical sensation description ('My head was still ringing')."
+        }
+    ]
+}
