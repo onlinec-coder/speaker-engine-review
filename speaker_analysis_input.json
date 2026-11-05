@@ -102,17 +102,41 @@
         {
             "id": "C003",
             "name": "Aria",
-            "aliases": [],
+            "aliases": [
+                "Arya"
+            ],
             "gender": "female",
             "relationships": [
                 {
                     "target": "Vivienne",
                     "type": "sister"
+                },
+                {
+                    "target": "Mother",
+                    "type": "child"
+                },
+                {
+                    "target": "Narrator",
+                    "type": "sibling"
+                },
+                {
+                    "target": "Narrator",
+                    "type": "sister"
+                },
+                {
+                    "target": "Narrator",
+                    "type": "sibling/ally"
+                },
+                {
+                    "target": "Vivian",
+                    "type": "ally"
                 }
             ],
             "speech_style": [
                 "flat",
-                "controlled"
+                "controlled",
+                "bright",
+                "sharp"
             ]
         },
         {
@@ -173,38 +197,6 @@
             "speech_style": [
                 "Direct",
                 "Analytical"
-            ]
-        },
-        {
-            "id": "C006",
-            "name": "Arya",
-            "aliases": [],
-            "gender": "female",
-            "relationships": [
-                {
-                    "target": "Mother",
-                    "type": "child"
-                },
-                {
-                    "target": "Narrator",
-                    "type": "sibling"
-                },
-                {
-                    "target": "Narrator",
-                    "type": "sister"
-                },
-                {
-                    "target": "Narrator",
-                    "type": "sibling/ally"
-                },
-                {
-                    "target": "Vivian",
-                    "type": "ally"
-                }
-            ],
-            "speech_style": [
-                "bright",
-                "sharp"
             ]
         },
         {
@@ -7279,47 +7271,53 @@
                 {
                     "subtitle_id": 900,
                     "start": "0:37:21.781000",
-                    "end": "0:37:23.780000",
-                    "text": "Arya, she looked at me."
+                    "end": "0:37:23.500000",
+                    "text": "Arya,"
                 },
                 {
                     "subtitle_id": 901,
+                    "start": "0:37:23.501000",
+                    "end": "0:37:23.780000",
+                    "text": "she looked at me."
+                },
+                {
+                    "subtitle_id": 902,
                     "start": "0:37:23.781000",
                     "end": "0:37:24.780000",
                     "text": "Deal."
                 },
                 {
-                    "subtitle_id": 902,
+                    "subtitle_id": 903,
                     "start": "0:37:24.781000",
                     "end": "0:37:26.780000",
                     "text": "But this time we both win."
                 },
                 {
-                    "subtitle_id": 903,
+                    "subtitle_id": 904,
                     "start": "0:37:26.781000",
                     "end": "0:37:28.780000",
                     "text": "She stared at me for a second."
                 },
                 {
-                    "subtitle_id": 904,
+                    "subtitle_id": 905,
                     "start": "0:37:28.781000",
                     "end": "0:37:30.780000",
                     "text": "Then something crossed her face."
                 },
                 {
-                    "subtitle_id": 905,
+                    "subtitle_id": 906,
                     "start": "0:37:30.781000",
                     "end": "0:37:32.780000",
                     "text": "Soft and real under all the sharp edges."
                 },
                 {
-                    "subtitle_id": 906,
+                    "subtitle_id": 907,
                     "start": "0:37:32.781000",
                     "end": "0:37:36.780000",
                     "text": "She grabbed Luke's arm and turned back\nto the window like she hadn't heard me."
                 },
                 {
-                    "subtitle_id": 907,
+                    "subtitle_id": 908,
                     "start": "0:37:36.781000",
                     "end": "0:37:38.780000",
                     "text": "But she was smiling."
