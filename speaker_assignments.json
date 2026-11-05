@@ -1,7 +1,7 @@
 {
     "movie": {
         "subtitle_file": "input.srt",
-        "total_subtitles": 907
+        "total_subtitles": 908
     },
     "assignments": [
         {
@@ -2246,16 +2246,16 @@
         },
         {
             "subtitle_id": 281,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
+            "speaker_id": "C003",
+            "speaker_name": "Aria",
             "speaker_type": "character",
             "confidence": "high",
             "evidence": "Context and subsequent lines show Arya speaking to Vivienne about their mother."
         },
         {
             "subtitle_id": 282,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
+            "speaker_id": "C003",
+            "speaker_name": "Aria",
             "speaker_type": "character",
             "confidence": "high",
             "evidence": "Continuation of Arya's dialogue explaining past events."
@@ -2318,8 +2318,8 @@
         },
         {
             "subtitle_id": 290,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
+            "speaker_id": "C003",
+            "speaker_name": "Aria",
             "speaker_type": "character",
             "confidence": "high",
             "evidence": "Arya responding to Vivienne's question."
@@ -2342,16 +2342,16 @@
         },
         {
             "subtitle_id": 293,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
+            "speaker_id": "C003",
+            "speaker_name": "Aria",
             "speaker_type": "character",
             "confidence": "high",
             "evidence": "Arya answering Vivienne."
         },
         {
             "subtitle_id": 294,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
+            "speaker_id": "C003",
+            "speaker_name": "Aria",
             "speaker_type": "character",
             "confidence": "high",
             "evidence": "Arya mentioning the specific cake."
@@ -2398,8 +2398,8 @@
         },
         {
             "subtitle_id": 300,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
+            "speaker_id": "C003",
+            "speaker_name": "Aria",
             "speaker_type": "character",
             "confidence": "high",
             "evidence": "Arya commenting on the situation."
@@ -2470,40 +2470,40 @@
         },
         {
             "subtitle_id": 309,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
+            "speaker_id": "C003",
+            "speaker_name": "Aria",
             "speaker_type": "character",
             "confidence": "high",
             "evidence": "Arya formulating a plan."
         },
         {
             "subtitle_id": 310,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
+            "speaker_id": "C003",
+            "speaker_name": "Aria",
             "speaker_type": "character",
             "confidence": "high",
             "evidence": "Arya describing the woman."
         },
         {
             "subtitle_id": 311,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
+            "speaker_id": "C003",
+            "speaker_name": "Aria",
             "speaker_type": "character",
             "confidence": "high",
             "evidence": "Arya proposing their counter-strategy."
         },
         {
             "subtitle_id": 312,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
+            "speaker_id": "C003",
+            "speaker_name": "Aria",
             "speaker_type": "character",
             "confidence": "high",
             "evidence": "Arya repeating the name."
         },
         {
             "subtitle_id": 313,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
+            "speaker_id": "C003",
+            "speaker_name": "Aria",
             "speaker_type": "character",
             "confidence": "high",
             "evidence": "Arya continuing the dialogue."
@@ -2542,16 +2542,16 @@
         },
         {
             "subtitle_id": 318,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
+            "speaker_id": "C003",
+            "speaker_name": "Aria",
             "speaker_type": "character",
             "confidence": "high",
             "evidence": "Arya answering Vivienne's question about their mother."
         },
         {
             "subtitle_id": 319,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
+            "speaker_id": "C003",
+            "speaker_name": "Aria",
             "speaker_type": "character",
             "confidence": "high",
             "evidence": "Arya explaining the plan."
@@ -3350,8 +3350,8 @@
         },
         {
             "subtitle_id": 419,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
+            "speaker_id": "C003",
+            "speaker_name": "Aria",
             "speaker_type": "character",
             "confidence": "high",
             "evidence": "Аряагийн хариулт (context: Arya said)."
@@ -3622,8 +3622,8 @@
         },
         {
             "subtitle_id": 453,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
+            "speaker_id": "C003",
+            "speaker_name": "Aria",
             "speaker_type": "character",
             "confidence": "high",
             "evidence": "Arya speaks directly to Vivienne, asking a question."
@@ -3646,8 +3646,8 @@
         },
         {
             "subtitle_id": 456,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
+            "speaker_id": "C003",
+            "speaker_name": "Aria",
             "speaker_type": "character",
             "confidence": "high",
             "evidence": "Arya continues the conversation, asking 'And after?'"
@@ -6750,16 +6750,16 @@
         },
         {
             "subtitle_id": 844,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
+            "speaker_id": "C003",
+            "speaker_name": "Aria",
             "speaker_type": "character",
             "confidence": "high",
             "evidence": "Arya straightened up хийсний дараах яриа."
         },
         {
             "subtitle_id": 845,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
+            "speaker_id": "C003",
+            "speaker_name": "Aria",
             "speaker_type": "character",
             "confidence": "high",
             "evidence": "Arya-гийн ярианы үргэлжлэл."
@@ -6798,32 +6798,32 @@
         },
         {
             "subtitle_id": 850,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
+            "speaker_id": "C003",
+            "speaker_name": "Aria",
             "speaker_type": "character",
             "confidence": "medium",
             "evidence": "Arya-гийн Vivienne-д хандаж ярьж буй яриа."
         },
         {
             "subtitle_id": 851,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
+            "speaker_id": "C003",
+            "speaker_name": "Aria",
             "speaker_type": "character",
             "confidence": "medium",
             "evidence": "Ярианы давталт."
         },
         {
             "subtitle_id": 852,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
+            "speaker_id": "C003",
+            "speaker_name": "Aria",
             "speaker_type": "character",
             "confidence": "medium",
             "evidence": "Ярианы явцад нэрийг дуудаж буй байдал."
         },
         {
             "subtitle_id": 853,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
+            "speaker_id": "C003",
+            "speaker_name": "Aria",
             "speaker_type": "character",
             "confidence": "medium",
             "evidence": "Ярианы үргэлжлэл."
@@ -6870,8 +6870,8 @@
         },
         {
             "subtitle_id": 859,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
+            "speaker_id": "C003",
+            "speaker_name": "Aria",
             "speaker_type": "character",
             "confidence": "high",
             "evidence": "Arya-гийн асууж буй шууд яриа."
@@ -6886,8 +6886,8 @@
         },
         {
             "subtitle_id": 861,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
+            "speaker_id": "C003",
+            "speaker_name": "Aria",
             "speaker_type": "character",
             "confidence": "high",
             "evidence": "Arya-гийн өгсөн хариу үйлдэл/яриа."
@@ -6966,83 +6966,83 @@
         },
         {
             "subtitle_id": 871,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
+            "speaker_id": "C005",
+            "speaker_name": "Narrator",
+            "speaker_type": "narrator",
             "confidence": "high",
-            "evidence": "POV дүрийн дотоод мэдрэмж, үйлдэл."
+            "evidence": "Видео шалгалтаар 870-аас хойш Narrator-ийн ижил дуу хоолой үргэлжилж буй нь батлагдсан."
         },
         {
             "subtitle_id": 872,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
+            "speaker_id": "C005",
+            "speaker_name": "Narrator",
+            "speaker_type": "narrator",
             "confidence": "high",
-            "evidence": "Vivienne-ийн дотоод ажиглалт."
+            "evidence": "Видео шалгалтаар 870-аас хойш Narrator-ийн ижил дуу хоолой үргэлжилж буй нь батлагдсан."
         },
         {
             "subtitle_id": 873,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
+            "speaker_id": "C005",
+            "speaker_name": "Narrator",
+            "speaker_type": "narrator",
             "confidence": "high",
-            "evidence": "Vivienne-ийн дотоод бодол."
+            "evidence": "Видео шалгалтаар 870-аас хойш Narrator-ийн ижил дуу хоолой үргэлжилж буй нь батлагдсан."
         },
         {
             "subtitle_id": 874,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
+            "speaker_id": "C005",
+            "speaker_name": "Narrator",
+            "speaker_type": "narrator",
             "confidence": "high",
-            "evidence": "Vivienne-ийн дотоод бодол."
+            "evidence": "Видео шалгалтаар 870-аас хойш Narrator-ийн ижил дуу хоолой үргэлжилж буй нь батлагдсан."
         },
         {
             "subtitle_id": 875,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
+            "speaker_id": "C005",
+            "speaker_name": "Narrator",
+            "speaker_type": "narrator",
             "confidence": "high",
-            "evidence": "Vivienne-ийн дотоод мэдрэмжийн үнэлгээ."
+            "evidence": "Видео шалгалтаар 870-аас хойш Narrator-ийн ижил дуу хоолой үргэлжилж буй нь батлагдсан."
         },
         {
             "subtitle_id": 876,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
+            "speaker_id": "C005",
+            "speaker_name": "Narrator",
+            "speaker_type": "narrator",
             "confidence": "high",
-            "evidence": "Vivienne-ийн дотоод бодол."
+            "evidence": "Видео шалгалтаар 870-аас хойш Narrator-ийн ижил дуу хоолой үргэлжилж буй нь батлагдсан."
         },
         {
             "subtitle_id": 877,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
+            "speaker_id": "C005",
+            "speaker_name": "Narrator",
+            "speaker_type": "narrator",
             "confidence": "high",
-            "evidence": "Зүрхний цохилт болон мэдрэмжийг дүрсэлсэн дотоод өгүүлэмж."
+            "evidence": "Видео шалгалтаар 870-аас хойш Narrator-ийн ижил дуу хоолой үргэлжилж буй нь батлагдсан."
         },
         {
             "subtitle_id": 878,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
+            "speaker_id": "C005",
+            "speaker_name": "Narrator",
+            "speaker_type": "narrator",
             "confidence": "high",
-            "evidence": "Lucian-тай харьцуулсан дотоод бодол."
+            "evidence": "Видео шалгалтаар 870-аас хойш Narrator-ийн ижил дуу хоолой үргэлжилж буй нь батлагдсан."
         },
         {
             "subtitle_id": 879,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
+            "speaker_id": "C005",
+            "speaker_name": "Narrator",
+            "speaker_type": "narrator",
             "confidence": "high",
-            "evidence": "Дотоод мэдрэмжийн илэрхийлэл."
+            "evidence": "Видео шалгалтаар 870-аас хойш Narrator-ийн ижил дуу хоолой үргэлжилж буй нь батлагдсан."
         },
         {
             "subtitle_id": 880,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
+            "speaker_id": "C005",
+            "speaker_name": "Narrator",
+            "speaker_type": "narrator",
             "confidence": "high",
-            "evidence": "Vivienne-ийн дотоод дүгнэлт."
+            "evidence": "Видео шалгалтаар 870-аас хойш Narrator-ийн ижил дуу хоолой үргэлжилж буй нь батлагдсан."
         },
         {
             "subtitle_id": 881,
@@ -7102,24 +7102,24 @@
         },
         {
             "subtitle_id": 888,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
+            "speaker_id": "C003",
+            "speaker_name": "Aria",
             "speaker_type": "character",
             "confidence": "high",
             "evidence": "Arya-ийн шууд яриа."
         },
         {
             "subtitle_id": 889,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
+            "speaker_id": "C003",
+            "speaker_name": "Aria",
             "speaker_type": "character",
             "confidence": "high",
             "evidence": "Arya-ийн үргэлжилсэн шууд яриа."
         },
         {
             "subtitle_id": 890,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
+            "speaker_id": "C003",
+            "speaker_name": "Aria",
             "speaker_type": "character",
             "confidence": "high",
             "evidence": "Luke-д хандан ярьж буй Arya-ийн яриа."
@@ -7134,8 +7134,8 @@
         },
         {
             "subtitle_id": 892,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
+            "speaker_id": "C003",
+            "speaker_name": "Aria",
             "speaker_type": "character",
             "confidence": "high",
             "evidence": "Luke-ийн хариуд Arya эргүүлэн хэлж байна."
@@ -7158,8 +7158,8 @@
         },
         {
             "subtitle_id": 895,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
+            "speaker_id": "C003",
+            "speaker_name": "Aria",
             "speaker_type": "character",
             "confidence": "high",
             "evidence": "Arya-ийн хариу үг."
@@ -7198,19 +7198,19 @@
         },
         {
             "subtitle_id": 900,
-            "speaker_id": "C005",
-            "speaker_name": "Narrator",
-            "speaker_type": "narrator",
-            "confidence": "high",
-            "evidence": "Arya-ийн үйлдэл болон POV дүрийн харцыг хүүрнэж байна."
-        },
-        {
-            "subtitle_id": 901,
             "speaker_id": "C001",
             "speaker_name": "Vivienne",
             "speaker_type": "character",
             "confidence": "high",
-            "evidence": "Vivienne-ийн Arya руу хандан хэлж буй шууд яриа."
+            "evidence": "Vivienne Arya-г нэрээр нь дуудаж буй шууд яриа."
+        },
+        {
+            "subtitle_id": 901,
+            "speaker_id": "C005",
+            "speaker_name": "Narrator",
+            "speaker_type": "narrator",
+            "confidence": "high",
+            "evidence": "Vivienne-ийн дуудлагын дараах Narrator-ийн хүүрнэл."
         },
         {
             "subtitle_id": 902,
@@ -7218,15 +7218,15 @@
             "speaker_name": "Vivienne",
             "speaker_type": "character",
             "confidence": "high",
-            "evidence": "Vivienne-ийн ярианы үргэлжлэл."
+            "evidence": "Vivienne-ийн Arya руу хандан хэлж буй шууд яриа."
         },
         {
             "subtitle_id": 903,
-            "speaker_id": "C005",
-            "speaker_name": "Narrator",
-            "speaker_type": "narrator",
+            "speaker_id": "C001",
+            "speaker_name": "Vivienne",
+            "speaker_type": "character",
             "confidence": "high",
-            "evidence": "Arya-ийн реакцийг ажиглаж буй POV дүрийн хүүрнэл."
+            "evidence": "Vivienne-ийн ярианы үргэлжлэл."
         },
         {
             "subtitle_id": 904,
@@ -7234,7 +7234,7 @@
             "speaker_name": "Narrator",
             "speaker_type": "narrator",
             "confidence": "high",
-            "evidence": "Arya-ийн царайнд илэрсэн өөрчлөлтийг хүүрнэж байна."
+            "evidence": "Arya-ийн реакцийг ажиглаж буй POV дүрийн хүүрнэл."
         },
         {
             "subtitle_id": 905,
@@ -7242,7 +7242,7 @@
             "speaker_name": "Narrator",
             "speaker_type": "narrator",
             "confidence": "high",
-            "evidence": "Arya-ийн дотоод мэдрэмжийн гаднын илрэлийг тайлбарласан хүүрнэл."
+            "evidence": "Arya-ийн царайнд илэрсэн өөрчлөлтийг хүүрнэж байна."
         },
         {
             "subtitle_id": 906,
@@ -7250,10 +7250,18 @@
             "speaker_name": "Narrator",
             "speaker_type": "narrator",
             "confidence": "high",
-            "evidence": "Arya-ийн хийсэн үйлдлийг дүрсэлсэн хүүрнэл."
+            "evidence": "Arya-ийн дотоод мэдрэмжийн гаднын илрэлийг тайлбарласан хүүрнэл."
         },
         {
             "subtitle_id": 907,
+            "speaker_id": "C005",
+            "speaker_name": "Narrator",
+            "speaker_type": "narrator",
+            "confidence": "high",
+            "evidence": "Arya-ийн хийсэн үйлдлийг дүрсэлсэн хүүрнэл."
+        },
+        {
+            "subtitle_id": 908,
             "speaker_id": "C005",
             "speaker_name": "Narrator",
             "speaker_type": "narrator",
@@ -9457,16 +9465,16 @@
             },
             {
                 "subtitle_id": 281,
-                "speaker_id": "C006",
-                "speaker_name": "Arya",
+                "speaker_id": "C003",
+                "speaker_name": "Aria",
                 "speaker_type": "character",
                 "confidence": "high",
                 "evidence": "Context and subsequent lines show Arya speaking to Vivienne about their mother."
             },
             {
                 "subtitle_id": 282,
-                "speaker_id": "C006",
-                "speaker_name": "Arya",
+                "speaker_id": "C003",
+                "speaker_name": "Aria",
                 "speaker_type": "character",
                 "confidence": "high",
                 "evidence": "Continuation of Arya's dialogue explaining past events."
@@ -9529,8 +9537,8 @@
             },
             {
                 "subtitle_id": 290,
-                "speaker_id": "C006",
-                "speaker_name": "Arya",
+                "speaker_id": "C003",
+                "speaker_name": "Aria",
                 "speaker_type": "character",
                 "confidence": "high",
                 "evidence": "Arya responding to Vivienne's question."
@@ -9553,16 +9561,16 @@
             },
             {
                 "subtitle_id": 293,
-                "speaker_id": "C006",
-                "speaker_name": "Arya",
+                "speaker_id": "C003",
+                "speaker_name": "Aria",
                 "speaker_type": "character",
                 "confidence": "high",
                 "evidence": "Arya answering Vivienne."
             },
             {
                 "subtitle_id": 294,
-                "speaker_id": "C006",
-                "speaker_name": "Arya",
+                "speaker_id": "C003",
+                "speaker_name": "Aria",
                 "speaker_type": "character",
                 "confidence": "high",
                 "evidence": "Arya mentioning the specific cake."
@@ -9609,8 +9617,8 @@
             },
             {
                 "subtitle_id": 300,
-                "speaker_id": "C006",
-                "speaker_name": "Arya",
+                "speaker_id": "C003",
+                "speaker_name": "Aria",
                 "speaker_type": "character",
                 "confidence": "high",
                 "evidence": "Arya commenting on the situation."
@@ -9681,40 +9689,40 @@
             },
             {
                 "subtitle_id": 309,
-                "speaker_id": "C006",
-                "speaker_name": "Arya",
+                "speaker_id": "C003",
+                "speaker_name": "Aria",
                 "speaker_type": "character",
                 "confidence": "high",
                 "evidence": "Arya formulating a plan."
             },
             {
                 "subtitle_id": 310,
-                "speaker_id": "C006",
-                "speaker_name": "Arya",
+                "speaker_id": "C003",
+                "speaker_name": "Aria",
                 "speaker_type": "character",
                 "confidence": "high",
                 "evidence": "Arya describing the woman."
             },
             {
                 "subtitle_id": 311,
-                "speaker_id": "C006",
-                "speaker_name": "Arya",
+                "speaker_id": "C003",
+                "speaker_name": "Aria",
                 "speaker_type": "character",
                 "confidence": "high",
                 "evidence": "Arya proposing their counter-strategy."
             },
             {
                 "subtitle_id": 312,
-                "speaker_id": "C006",
-                "speaker_name": "Arya",
+                "speaker_id": "C003",
+                "speaker_name": "Aria",
                 "speaker_type": "character",
                 "confidence": "high",
                 "evidence": "Arya repeating the name."
             },
             {
                 "subtitle_id": 313,
-                "speaker_id": "C006",
-                "speaker_name": "Arya",
+                "speaker_id": "C003",
+                "speaker_name": "Aria",
                 "speaker_type": "character",
                 "confidence": "high",
                 "evidence": "Arya continuing the dialogue."
@@ -9753,16 +9761,16 @@
             },
             {
                 "subtitle_id": 318,
-                "speaker_id": "C006",
-                "speaker_name": "Arya",
+                "speaker_id": "C003",
+                "speaker_name": "Aria",
                 "speaker_type": "character",
                 "confidence": "high",
                 "evidence": "Arya answering Vivienne's question about their mother."
             },
             {
                 "subtitle_id": 319,
-                "speaker_id": "C006",
-                "speaker_name": "Arya",
+                "speaker_id": "C003",
+                "speaker_name": "Aria",
                 "speaker_type": "character",
                 "confidence": "high",
                 "evidence": "Arya explaining the plan."
@@ -10489,8 +10497,8 @@
             },
             {
                 "subtitle_id": 419,
-                "speaker_id": "C006",
-                "speaker_name": "Arya",
+                "speaker_id": "C003",
+                "speaker_name": "Aria",
                 "speaker_type": "character",
                 "confidence": "high",
                 "evidence": "Аряагийн хариулт (context: Arya said)."
@@ -10761,8 +10769,8 @@
             },
             {
                 "subtitle_id": 453,
-                "speaker_id": "C006",
-                "speaker_name": "Arya",
+                "speaker_id": "C003",
+                "speaker_name": "Aria",
                 "speaker_type": "character",
                 "confidence": "high",
                 "evidence": "Arya speaks directly to Vivienne, asking a question."
@@ -10785,8 +10793,8 @@
             },
             {
                 "subtitle_id": 456,
-                "speaker_id": "C006",
-                "speaker_name": "Arya",
+                "speaker_id": "C003",
+                "speaker_name": "Aria",
                 "speaker_type": "character",
                 "confidence": "high",
                 "evidence": "Arya continues the conversation, asking 'And after?'"
@@ -13849,16 +13857,16 @@
             },
             {
                 "subtitle_id": 844,
-                "speaker_id": "C006",
-                "speaker_name": "Arya",
+                "speaker_id": "C003",
+                "speaker_name": "Aria",
                 "speaker_type": "character",
                 "confidence": "high",
                 "evidence": "Arya straightened up хийсний дараах яриа."
             },
             {
                 "subtitle_id": 845,
-                "speaker_id": "C006",
-                "speaker_name": "Arya",
+                "speaker_id": "C003",
+                "speaker_name": "Aria",
                 "speaker_type": "character",
                 "confidence": "high",
                 "evidence": "Arya-гийн ярианы үргэлжлэл."
@@ -13905,8 +13913,8 @@
             },
             {
                 "subtitle_id": 859,
-                "speaker_id": "C006",
-                "speaker_name": "Arya",
+                "speaker_id": "C003",
+                "speaker_name": "Aria",
                 "speaker_type": "character",
                 "confidence": "high",
                 "evidence": "Arya-гийн асууж буй шууд яриа."
@@ -13921,8 +13929,8 @@
             },
             {
                 "subtitle_id": 861,
-                "speaker_id": "C006",
-                "speaker_name": "Arya",
+                "speaker_id": "C003",
+                "speaker_name": "Aria",
                 "speaker_type": "character",
                 "confidence": "high",
                 "evidence": "Arya-гийн өгсөн хариу үйлдэл/яриа."
@@ -14001,83 +14009,83 @@
             },
             {
                 "subtitle_id": 871,
-                "speaker_id": "C001",
-                "speaker_name": "Vivienne",
-                "speaker_type": "inner_monologue",
+                "speaker_id": "C005",
+                "speaker_name": "Narrator",
+                "speaker_type": "narrator",
                 "confidence": "high",
-                "evidence": "POV дүрийн дотоод мэдрэмж, үйлдэл."
+                "evidence": "Видео шалгалтаар 870-аас хойш Narrator-ийн ижил дуу хоолой үргэлжилж буй нь батлагдсан."
             },
             {
                 "subtitle_id": 872,
-                "speaker_id": "C001",
-                "speaker_name": "Vivienne",
-                "speaker_type": "inner_monologue",
+                "speaker_id": "C005",
+                "speaker_name": "Narrator",
+                "speaker_type": "narrator",
                 "confidence": "high",
-                "evidence": "Vivienne-ийн дотоод ажиглалт."
+                "evidence": "Видео шалгалтаар 870-аас хойш Narrator-ийн ижил дуу хоолой үргэлжилж буй нь батлагдсан."
             },
             {
                 "subtitle_id": 873,
-                "speaker_id": "C001",
-                "speaker_name": "Vivienne",
-                "speaker_type": "inner_monologue",
+                "speaker_id": "C005",
+                "speaker_name": "Narrator",
+                "speaker_type": "narrator",
                 "confidence": "high",
-                "evidence": "Vivienne-ийн дотоод бодол."
+                "evidence": "Видео шалгалтаар 870-аас хойш Narrator-ийн ижил дуу хоолой үргэлжилж буй нь батлагдсан."
             },
             {
                 "subtitle_id": 874,
-                "speaker_id": "C001",
-                "speaker_name": "Vivienne",
-                "speaker_type": "inner_monologue",
+                "speaker_id": "C005",
+                "speaker_name": "Narrator",
+                "speaker_type": "narrator",
                 "confidence": "high",
-                "evidence": "Vivienne-ийн дотоод бодол."
+                "evidence": "Видео шалгалтаар 870-аас хойш Narrator-ийн ижил дуу хоолой үргэлжилж буй нь батлагдсан."
             },
             {
                 "subtitle_id": 875,
-                "speaker_id": "C001",
-                "speaker_name": "Vivienne",
-                "speaker_type": "inner_monologue",
+                "speaker_id": "C005",
+                "speaker_name": "Narrator",
+                "speaker_type": "narrator",
                 "confidence": "high",
-                "evidence": "Vivienne-ийн дотоод мэдрэмжийн үнэлгээ."
+                "evidence": "Видео шалгалтаар 870-аас хойш Narrator-ийн ижил дуу хоолой үргэлжилж буй нь батлагдсан."
             },
             {
                 "subtitle_id": 876,
-                "speaker_id": "C001",
-                "speaker_name": "Vivienne",
-                "speaker_type": "inner_monologue",
+                "speaker_id": "C005",
+                "speaker_name": "Narrator",
+                "speaker_type": "narrator",
                 "confidence": "high",
-                "evidence": "Vivienne-ийн дотоод бодол."
+                "evidence": "Видео шалгалтаар 870-аас хойш Narrator-ийн ижил дуу хоолой үргэлжилж буй нь батлагдсан."
             },
             {
                 "subtitle_id": 877,
-                "speaker_id": "C001",
-                "speaker_name": "Vivienne",
-                "speaker_type": "inner_monologue",
+                "speaker_id": "C005",
+                "speaker_name": "Narrator",
+                "speaker_type": "narrator",
                 "confidence": "high",
-                "evidence": "Зүрхний цохилт болон мэдрэмжийг дүрсэлсэн дотоод өгүүлэмж."
+                "evidence": "Видео шалгалтаар 870-аас хойш Narrator-ийн ижил дуу хоолой үргэлжилж буй нь батлагдсан."
             },
             {
                 "subtitle_id": 878,
-                "speaker_id": "C001",
-                "speaker_name": "Vivienne",
-                "speaker_type": "inner_monologue",
+                "speaker_id": "C005",
+                "speaker_name": "Narrator",
+                "speaker_type": "narrator",
                 "confidence": "high",
-                "evidence": "Lucian-тай харьцуулсан дотоод бодол."
+                "evidence": "Видео шалгалтаар 870-аас хойш Narrator-ийн ижил дуу хоолой үргэлжилж буй нь батлагдсан."
             },
             {
                 "subtitle_id": 879,
-                "speaker_id": "C001",
-                "speaker_name": "Vivienne",
-                "speaker_type": "inner_monologue",
+                "speaker_id": "C005",
+                "speaker_name": "Narrator",
+                "speaker_type": "narrator",
                 "confidence": "high",
-                "evidence": "Дотоод мэдрэмжийн илэрхийлэл."
+                "evidence": "Видео шалгалтаар 870-аас хойш Narrator-ийн ижил дуу хоолой үргэлжилж буй нь батлагдсан."
             },
             {
                 "subtitle_id": 880,
-                "speaker_id": "C001",
-                "speaker_name": "Vivienne",
-                "speaker_type": "inner_monologue",
+                "speaker_id": "C005",
+                "speaker_name": "Narrator",
+                "speaker_type": "narrator",
                 "confidence": "high",
-                "evidence": "Vivienne-ийн дотоод дүгнэлт."
+                "evidence": "Видео шалгалтаар 870-аас хойш Narrator-ийн ижил дуу хоолой үргэлжилж буй нь батлагдсан."
             },
             {
                 "subtitle_id": 881,
@@ -14137,24 +14145,24 @@
             },
             {
                 "subtitle_id": 888,
-                "speaker_id": "C006",
-                "speaker_name": "Arya",
+                "speaker_id": "C003",
+                "speaker_name": "Aria",
                 "speaker_type": "character",
                 "confidence": "high",
                 "evidence": "Arya-ийн шууд яриа."
             },
             {
                 "subtitle_id": 889,
-                "speaker_id": "C006",
-                "speaker_name": "Arya",
+                "speaker_id": "C003",
+                "speaker_name": "Aria",
                 "speaker_type": "character",
                 "confidence": "high",
                 "evidence": "Arya-ийн үргэлжилсэн шууд яриа."
             },
             {
                 "subtitle_id": 890,
-                "speaker_id": "C006",
-                "speaker_name": "Arya",
+                "speaker_id": "C003",
+                "speaker_name": "Aria",
                 "speaker_type": "character",
                 "confidence": "high",
                 "evidence": "Luke-д хандан ярьж буй Arya-ийн яриа."
@@ -14169,8 +14177,8 @@
             },
             {
                 "subtitle_id": 892,
-                "speaker_id": "C006",
-                "speaker_name": "Arya",
+                "speaker_id": "C003",
+                "speaker_name": "Aria",
                 "speaker_type": "character",
                 "confidence": "high",
                 "evidence": "Luke-ийн хариуд Arya эргүүлэн хэлж байна."
@@ -14193,8 +14201,8 @@
             },
             {
                 "subtitle_id": 895,
-                "speaker_id": "C006",
-                "speaker_name": "Arya",
+                "speaker_id": "C003",
+                "speaker_name": "Aria",
                 "speaker_type": "character",
                 "confidence": "high",
                 "evidence": "Arya-ийн хариу үг."
@@ -14233,19 +14241,19 @@
             },
             {
                 "subtitle_id": 900,
-                "speaker_id": "C005",
-                "speaker_name": "Narrator",
-                "speaker_type": "narrator",
-                "confidence": "high",
-                "evidence": "Arya-ийн үйлдэл болон POV дүрийн харцыг хүүрнэж байна."
-            },
-            {
-                "subtitle_id": 901,
                 "speaker_id": "C001",
                 "speaker_name": "Vivienne",
                 "speaker_type": "character",
                 "confidence": "high",
-                "evidence": "Vivienne-ийн Arya руу хандан хэлж буй шууд яриа."
+                "evidence": "Vivienne Arya-г нэрээр нь дуудаж буй шууд яриа."
+            },
+            {
+                "subtitle_id": 901,
+                "speaker_id": "C005",
+                "speaker_name": "Narrator",
+                "speaker_type": "narrator",
+                "confidence": "high",
+                "evidence": "Vivienne-ийн дуудлагын дараах Narrator-ийн хүүрнэл."
             },
             {
                 "subtitle_id": 902,
@@ -14253,15 +14261,15 @@
                 "speaker_name": "Vivienne",
                 "speaker_type": "character",
                 "confidence": "high",
-                "evidence": "Vivienne-ийн ярианы үргэлжлэл."
+                "evidence": "Vivienne-ийн Arya руу хандан хэлж буй шууд яриа."
             },
             {
                 "subtitle_id": 903,
-                "speaker_id": "C005",
-                "speaker_name": "Narrator",
-                "speaker_type": "narrator",
+                "speaker_id": "C001",
+                "speaker_name": "Vivienne",
+                "speaker_type": "character",
                 "confidence": "high",
-                "evidence": "Arya-ийн реакцийг ажиглаж буй POV дүрийн хүүрнэл."
+                "evidence": "Vivienne-ийн ярианы үргэлжлэл."
             },
             {
                 "subtitle_id": 904,
@@ -14269,7 +14277,7 @@
                 "speaker_name": "Narrator",
                 "speaker_type": "narrator",
                 "confidence": "high",
-                "evidence": "Arya-ийн царайнд илэрсэн өөрчлөлтийг хүүрнэж байна."
+                "evidence": "Arya-ийн реакцийг ажиглаж буй POV дүрийн хүүрнэл."
             },
             {
                 "subtitle_id": 905,
@@ -14277,7 +14285,7 @@
                 "speaker_name": "Narrator",
                 "speaker_type": "narrator",
                 "confidence": "high",
-                "evidence": "Arya-ийн дотоод мэдрэмжийн гаднын илрэлийг тайлбарласан хүүрнэл."
+                "evidence": "Arya-ийн царайнд илэрсэн өөрчлөлтийг хүүрнэж байна."
             },
             {
                 "subtitle_id": 906,
@@ -14285,10 +14293,18 @@
                 "speaker_name": "Narrator",
                 "speaker_type": "narrator",
                 "confidence": "high",
-                "evidence": "Arya-ийн хийсэн үйлдлийг дүрсэлсэн хүүрнэл."
+                "evidence": "Arya-ийн дотоод мэдрэмжийн гаднын илрэлийг тайлбарласан хүүрнэл."
             },
             {
                 "subtitle_id": 907,
+                "speaker_id": "C005",
+                "speaker_name": "Narrator",
+                "speaker_type": "narrator",
+                "confidence": "high",
+                "evidence": "Arya-ийн хийсэн үйлдлийг дүрсэлсэн хүүрнэл."
+            },
+            {
+                "subtitle_id": 908,
                 "speaker_id": "C005",
                 "speaker_name": "Narrator",
                 "speaker_type": "narrator",
@@ -14467,32 +14483,32 @@
             },
             {
                 "subtitle_id": 850,
-                "speaker_id": "C006",
-                "speaker_name": "Arya",
+                "speaker_id": "C003",
+                "speaker_name": "Aria",
                 "speaker_type": "character",
                 "confidence": "medium",
                 "evidence": "Arya-гийн Vivienne-д хандаж ярьж буй яриа."
             },
             {
                 "subtitle_id": 851,
-                "speaker_id": "C006",
-                "speaker_name": "Arya",
+                "speaker_id": "C003",
+                "speaker_name": "Aria",
                 "speaker_type": "character",
                 "confidence": "medium",
                 "evidence": "Ярианы давталт."
             },
             {
                 "subtitle_id": 852,
-                "speaker_id": "C006",
-                "speaker_name": "Arya",
+                "speaker_id": "C003",
+                "speaker_name": "Aria",
                 "speaker_type": "character",
                 "confidence": "medium",
                 "evidence": "Ярианы явцад нэрийг дуудаж буй байдал."
             },
             {
                 "subtitle_id": 853,
-                "speaker_id": "C006",
-                "speaker_name": "Arya",
+                "speaker_id": "C003",
+                "speaker_name": "Aria",
                 "speaker_type": "character",
                 "confidence": "medium",
                 "evidence": "Ярианы үргэлжлэл."
