@@ -1,324 +1,324 @@
 {
-    "results": [
-        {
-            "subtitle_id": 401,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Сонгодог шууд ярианы үргэлжлэл (өмнөх контекст дэх асуултад хариулж буй хэсэг)."
-        },
-        {
-            "subtitle_id": 402,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Өмнөх мөрийн шууд яриа үргэлжилж байна."
-        },
-        {
-            "subtitle_id": 403,
-            "speaker_id": "C005",
-            "speaker_name": "Narrator",
-            "speaker_type": "narrator",
-            "confidence": "high",
-            "evidence": "Гадаад орчин, дүрийн физик үйлдлийг дүрсэлсэн хүүрнэл."
-        },
-        {
-            "subtitle_id": 404,
-            "speaker_id": "C008",
-            "speaker_name": "Morgana",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Морганагийн шууд яриа."
-        },
-        {
-            "subtitle_id": 405,
-            "speaker_id": "C005",
-            "speaker_name": "Narrator",
-            "speaker_type": "narrator",
-            "confidence": "high",
-            "evidence": "Дүрийн дуу хоолойны өнгө байдлыг гаднаас нь хүүрнэж байна."
-        },
-        {
-            "subtitle_id": 406,
-            "speaker_id": "C005",
-            "speaker_name": "Narrator",
-            "speaker_type": "narrator",
-            "confidence": "high",
-            "evidence": "Хүүрнэгчийн тайлбар үргэлжилж байна."
-        },
-        {
-            "subtitle_id": 407,
-            "speaker_id": "C008",
-            "speaker_name": "Morgana",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Морганагийн шууд яриа."
-        },
-        {
-            "subtitle_id": 408,
-            "speaker_id": "C008",
-            "speaker_name": "Morgana",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Морганагийн шууд ярианы үргэлжлэл."
-        },
-        {
-            "subtitle_id": 409,
-            "speaker_id": "C008",
-            "speaker_name": "Morgana",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Морганагийн шууд ярианы үргэлжлэл."
-        },
-        {
-            "subtitle_id": 410,
-            "speaker_id": "C005",
-            "speaker_name": "Narrator",
-            "speaker_type": "narrator",
-            "confidence": "high",
-            "evidence": "Аряагийн үйлдлийг хүүрнэж буй хэсэг."
-        },
-        {
-            "subtitle_id": 411,
-            "speaker_id": "C005",
-            "speaker_name": "Narrator",
-            "speaker_type": "narrator",
-            "confidence": "high",
-            "evidence": "Морганагийн үйлдлийг тайлбарласан хүүрнэл."
-        },
-        {
-            "subtitle_id": 412,
-            "speaker_id": "C008",
-            "speaker_name": "Morgana",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Морганагийн асуулт."
-        },
-        {
-            "subtitle_id": 413,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Вивьенний хариулт."
-        },
-        {
-            "subtitle_id": 414,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Вивьенний шууд ярианы үргэлжлэл."
-        },
-        {
-            "subtitle_id": 415,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Вивьенний шууд ярианы үргэлжлэл."
-        },
-        {
-            "subtitle_id": 416,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Вивьенний шууд ярианы үргэлжлэл."
-        },
-        {
-            "subtitle_id": 417,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Вивьенний шууд ярианы үргэлжлэл."
-        },
-        {
-            "subtitle_id": 418,
-            "speaker_id": "C008",
-            "speaker_name": "Morgana",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Морганагийн асуулт."
-        },
-        {
-            "subtitle_id": 419,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Аряагийн хариулт (context: Arya said)."
-        },
-        {
-            "subtitle_id": 420,
-            "speaker_id": "C005",
-            "speaker_name": "Narrator",
-            "speaker_type": "narrator",
-            "confidence": "high",
-            "evidence": "Хүүрнэгчийн яриа гаргагчийг заасан тайлбар."
-        },
-        {
-            "subtitle_id": 421,
-            "speaker_id": "C005",
-            "speaker_name": "Narrator",
-            "speaker_type": "narrator",
-            "confidence": "high",
-            "evidence": "Дүрүүдийн харц солилцох үйл явдлыг хүүрнэж байна."
-        },
-        {
-            "subtitle_id": 422,
-            "speaker_id": "C005",
-            "speaker_name": "Narrator",
-            "speaker_type": "narrator",
-            "confidence": "high",
-            "evidence": "Хүүрнэгчийн үйл явдлын тайлбар үргэлжилж байна."
-        },
-        {
-            "subtitle_id": 423,
-            "speaker_id": "C008",
-            "speaker_name": "Morgana",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Морганагийн шууд яриа."
-        },
-        {
-            "subtitle_id": 424,
-            "speaker_id": "C008",
-            "speaker_name": "Morgana",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Морганагийн ярианы үргэлжлэл."
-        },
-        {
-            "subtitle_id": 425,
-            "speaker_id": "C008",
-            "speaker_name": "Morgana",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Морганагийн ярианы үргэлжлэл."
-        },
-        {
-            "subtitle_id": 426,
-            "speaker_id": "C005",
-            "speaker_name": "Narrator",
-            "speaker_type": "narrator",
-            "confidence": "high",
-            "evidence": "Хүүрнэгчийн тайлбар."
-        },
-        {
-            "subtitle_id": 427,
-            "speaker_id": "C008",
-            "speaker_name": "Morgana",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Морганагийн нөхцөлийг тавьж буй яриа."
-        },
-        {
-            "subtitle_id": 428,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Вивьенний шууд яриа."
-        },
-        {
-            "subtitle_id": 429,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Вивьенний шууд ярианы үргэлжлэл."
-        },
-        {
-            "subtitle_id": 430,
-            "speaker_id": "C005",
-            "speaker_name": "Narrator",
-            "speaker_type": "narrator",
-            "confidence": "high",
-            "evidence": "Хүүрнэгчийн тайлбар."
-        },
-        {
-            "subtitle_id": 431,
-            "speaker_id": "C005",
-            "speaker_name": "Narrator",
-            "speaker_type": "narrator",
-            "confidence": "high",
-            "evidence": "Моргана босож буй үйлдлийг хүүрнэж байна."
-        },
-        {
-            "subtitle_id": 432,
-            "speaker_id": "C008",
-            "speaker_name": "Morgana",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Морганагийн эцсийн үг."
-        },
-        {
-            "subtitle_id": 433,
-            "speaker_id": "C005",
-            "speaker_name": "Narrator",
-            "speaker_type": "narrator",
-            "confidence": "high",
-            "evidence": "Хүүрнэгчийн үйл явдлыг өгүүлж буй хэсэг."
-        },
-        {
-            "subtitle_id": 434,
-            "speaker_id": "C005",
-            "speaker_name": "Narrator",
-            "speaker_type": "narrator",
-            "confidence": "high",
-            "evidence": "Хүүрнэгчийн үйл явдлыг өгүүлж буй хэсэг."
-        },
-        {
-            "subtitle_id": 435,
-            "speaker_id": "C005",
-            "speaker_name": "Narrator",
-            "speaker_type": "narrator",
-            "confidence": "high",
-            "evidence": "Хүүрнэгчийн тайлбар."
-        },
-        {
-            "subtitle_id": 436,
-            "speaker_id": "C005",
-            "speaker_name": "Narrator",
-            "speaker_type": "narrator",
-            "confidence": "high",
-            "evidence": "Хүүрнэгчийн тайлбар."
-        },
-        {
-            "subtitle_id": 437,
-            "speaker_id": "C005",
-            "speaker_name": "Narrator",
-            "speaker_type": "narrator",
-            "confidence": "high",
-            "evidence": "Хүүрнэгчийн тайлбар."
-        },
-        {
-            "subtitle_id": 438,
-            "speaker_id": "C005",
-            "speaker_name": "Narrator",
-            "speaker_type": "narrator",
-            "confidence": "high",
-            "evidence": "Хүүрнэгчийн тайлбар."
-        },
-        {
-            "subtitle_id": 439,
-            "speaker_id": "C005",
-            "speaker_name": "Narrator",
-            "speaker_type": "narrator",
-            "confidence": "high",
-            "evidence": "Хүүрнэгчийн үйл явдлын тайлбар."
-        },
-        {
-            "subtitle_id": 440,
-            "speaker_id": "C005",
-            "speaker_name": "Narrator",
-            "speaker_type": "narrator",
-            "confidence": "high",
-            "evidence": "Люсиэний ирэлт болон үйлдлийг дүрсэлсэн хүүрнэл."
-        }
-    ]
+  "results": [
+    {
+      "subtitle_id": 401,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Сонгодог шууд ярианы үргэлжлэл (өмнөх контекст дэх асуултад хариулж буй хэсэг)."
+    },
+    {
+      "subtitle_id": 402,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Өмнөх мөрийн шууд яриа үргэлжилж байна."
+    },
+    {
+      "subtitle_id": 403,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "Гадаад орчин, дүрийн физик үйлдлийг дүрсэлсэн хүүрнэл."
+    },
+    {
+      "subtitle_id": 404,
+      "speaker_id": "C008",
+      "speaker_name": "Morgana",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Морганагийн шууд яриа."
+    },
+    {
+      "subtitle_id": 405,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "Дүрийн дуу хоолойны өнгө байдлыг гаднаас нь хүүрнэж байна."
+    },
+    {
+      "subtitle_id": 406,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "Хүүрнэгчийн тайлбар үргэлжилж байна."
+    },
+    {
+      "subtitle_id": 407,
+      "speaker_id": "C008",
+      "speaker_name": "Morgana",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Морганагийн шууд яриа."
+    },
+    {
+      "subtitle_id": 408,
+      "speaker_id": "C008",
+      "speaker_name": "Morgana",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Морганагийн шууд ярианы үргэлжлэл."
+    },
+    {
+      "subtitle_id": 409,
+      "speaker_id": "C008",
+      "speaker_name": "Morgana",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Морганагийн шууд ярианы үргэлжлэл."
+    },
+    {
+      "subtitle_id": 410,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "Аряагийн үйлдлийг хүүрнэж буй хэсэг."
+    },
+    {
+      "subtitle_id": 411,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "Морганагийн үйлдлийг тайлбарласан хүүрнэл."
+    },
+    {
+      "subtitle_id": 412,
+      "speaker_id": "C008",
+      "speaker_name": "Morgana",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Морганагийн асуулт."
+    },
+    {
+      "subtitle_id": 413,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Вивьенний хариулт."
+    },
+    {
+      "subtitle_id": 414,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Вивьенний шууд ярианы үргэлжлэл."
+    },
+    {
+      "subtitle_id": 415,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Вивьенний шууд ярианы үргэлжлэл."
+    },
+    {
+      "subtitle_id": 416,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Вивьенний шууд ярианы үргэлжлэл."
+    },
+    {
+      "subtitle_id": 417,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Вивьенний шууд ярианы үргэлжлэл."
+    },
+    {
+      "subtitle_id": 418,
+      "speaker_id": "C008",
+      "speaker_name": "Morgana",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Морганагийн асуулт."
+    },
+    {
+      "subtitle_id": 419,
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Аряагийн хариулт (context: Arya said)."
+    },
+    {
+      "subtitle_id": 420,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "Хүүрнэгчийн яриа гаргагчийг заасан тайлбар."
+    },
+    {
+      "subtitle_id": 421,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "Дүрүүдийн харц солилцох үйл явдлыг хүүрнэж байна."
+    },
+    {
+      "subtitle_id": 422,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "Хүүрнэгчийн үйл явдлын тайлбар үргэлжилж байна."
+    },
+    {
+      "subtitle_id": 423,
+      "speaker_id": "C008",
+      "speaker_name": "Morgana",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Морганагийн шууд яриа."
+    },
+    {
+      "subtitle_id": 424,
+      "speaker_id": "C008",
+      "speaker_name": "Morgana",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Морганагийн ярианы үргэлжлэл."
+    },
+    {
+      "subtitle_id": 425,
+      "speaker_id": "C008",
+      "speaker_name": "Morgana",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Морганагийн ярианы үргэлжлэл."
+    },
+    {
+      "subtitle_id": 426,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "Хүүрнэгчийн тайлбар."
+    },
+    {
+      "subtitle_id": 427,
+      "speaker_id": "C008",
+      "speaker_name": "Morgana",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Морганагийн нөхцөлийг тавьж буй яриа."
+    },
+    {
+      "subtitle_id": 428,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Вивьенний шууд яриа."
+    },
+    {
+      "subtitle_id": 429,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Вивьенний шууд ярианы үргэлжлэл."
+    },
+    {
+      "subtitle_id": 430,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "Хүүрнэгчийн тайлбар."
+    },
+    {
+      "subtitle_id": 431,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "Моргана босож буй үйлдлийг хүүрнэж байна."
+    },
+    {
+      "subtitle_id": 432,
+      "speaker_id": "C008",
+      "speaker_name": "Morgana",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Морганагийн эцсийн үг."
+    },
+    {
+      "subtitle_id": 433,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "Хүүрнэгчийн үйл явдлыг өгүүлж буй хэсэг."
+    },
+    {
+      "subtitle_id": 434,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "Хүүрнэгчийн үйл явдлыг өгүүлж буй хэсэг."
+    },
+    {
+      "subtitle_id": 435,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "Хүүрнэгчийн тайлбар."
+    },
+    {
+      "subtitle_id": 436,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "Хүүрнэгчийн тайлбар."
+    },
+    {
+      "subtitle_id": 437,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "Хүүрнэгчийн тайлбар."
+    },
+    {
+      "subtitle_id": 438,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "Хүүрнэгчийн тайлбар."
+    },
+    {
+      "subtitle_id": 439,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "Хүүрнэгчийн үйл явдлын тайлбар."
+    },
+    {
+      "subtitle_id": 440,
+      "speaker_id": "C005",
+      "speaker_name": "Narrator",
+      "speaker_type": "narrator",
+      "confidence": "high",
+      "evidence": "Люсиэний ирэлт болон үйлдлийг дүрсэлсэн хүүрнэл."
+    }
+  ]
 }
