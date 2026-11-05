@@ -58,24 +58,24 @@
     },
     {
       "subtitle_id": 888,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Arya-ийн шууд яриа."
     },
     {
       "subtitle_id": 889,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Arya-ийн үргэлжилсэн шууд яриа."
     },
     {
       "subtitle_id": 890,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Luke-д хандан ярьж буй Arya-ийн яриа."
@@ -90,8 +90,8 @@
     },
     {
       "subtitle_id": 892,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Luke-ийн хариуд Arya эргүүлэн хэлж байна."
@@ -114,8 +114,8 @@
     },
     {
       "subtitle_id": 895,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Arya-ийн хариу үг."
