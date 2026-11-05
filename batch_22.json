@@ -26,16 +26,16 @@
     },
     {
       "subtitle_id": 844,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Arya straightened up хийсний дараах яриа."
     },
     {
       "subtitle_id": 845,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Arya-гийн ярианы үргэлжлэл."
@@ -162,8 +162,8 @@
     },
     {
       "subtitle_id": 861,
-      "speaker_id": "C006",
-      "speaker_name": "Arya",
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
       "speaker_type": "character",
       "confidence": "high",
       "evidence": "Arya-гийн өгсөн хариу үйлдэл/яриа."
