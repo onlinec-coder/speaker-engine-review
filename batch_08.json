@@ -1,324 +1,324 @@
 {
-    "results": [
-        {
-            "subtitle_id": 281,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Context and subsequent lines show Arya speaking to Vivienne about their mother."
-        },
-        {
-            "subtitle_id": 282,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Continuation of Arya's dialogue explaining past events."
-        },
-        {
-            "subtitle_id": 283,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
-            "confidence": "high",
-            "evidence": "First-person POV narrative observation by Vivienne about Arya's tone."
-        },
-        {
-            "subtitle_id": 284,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
-            "confidence": "high",
-            "evidence": "Vivienne's internal reflection on the details."
-        },
-        {
-            "subtitle_id": 285,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
-            "confidence": "high",
-            "evidence": "Vivienne recalling the painting."
-        },
-        {
-            "subtitle_id": 286,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
-            "confidence": "high",
-            "evidence": "Continuing inner thought process of Vivienne."
-        },
-        {
-            "subtitle_id": 287,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
-            "confidence": "high",
-            "evidence": "Vivienne's internal analysis of the subject's appearance."
-        },
-        {
-            "subtitle_id": 288,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Direct dialogue spoken by Vivienne to Arya."
-        },
-        {
-            "subtitle_id": 289,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
-            "confidence": "high",
-            "evidence": "Vivienne narrating the interaction and Arya's reaction."
-        },
-        {
-            "subtitle_id": 290,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Arya responding to Vivienne's question."
-        },
-        {
-            "subtitle_id": 291,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Vivienne continuing the conversation about meal requests."
-        },
-        {
-            "subtitle_id": 292,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Vivienne asking a follow-up question."
-        },
-        {
-            "subtitle_id": 293,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Arya answering Vivienne."
-        },
-        {
-            "subtitle_id": 294,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Arya mentioning the specific cake."
-        },
-        {
-            "subtitle_id": 295,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
-            "confidence": "high",
-            "evidence": "Vivienne's observation of Arya's eyes."
-        },
-        {
-            "subtitle_id": 296,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Vivienne sharing what was promised to her."
-        },
-        {
-            "subtitle_id": 297,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Continuation of Vivienne's dialogue about the mating promises."
-        },
-        {
-            "subtitle_id": 298,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Vivienne finishing her statement."
-        },
-        {
-            "subtitle_id": 299,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
-            "confidence": "high",
-            "evidence": "Vivienne describing the shared moment internally."
-        },
-        {
-            "subtitle_id": 300,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Arya commenting on the situation."
-        },
-        {
-            "subtitle_id": 301,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
-            "confidence": "high",
-            "evidence": "Vivienne combining dialogue and internal physical action narration."
-        },
-        {
-            "subtitle_id": 302,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Vivienne confirming her statement aloud."
-        },
-        {
-            "subtitle_id": 303,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Vivienne reflecting aloud on the past years."
-        },
-        {
-            "subtitle_id": 304,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Vivienne listing the holidays and dinners."
-        },
-        {
-            "subtitle_id": 305,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Vivienne concluding her realization."
-        },
-        {
-            "subtitle_id": 306,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
-            "confidence": "high",
-            "evidence": "Vivienne describing the quiet room and Arya's changing expression."
-        },
-        {
-            "subtitle_id": 307,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
-            "confidence": "high",
-            "evidence": "Vivienne's internal assessment of Arya's expression."
-        },
-        {
-            "subtitle_id": 308,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
-            "confidence": "high",
-            "evidence": "Continuation of Vivienne's internal description."
-        },
-        {
-            "subtitle_id": 309,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Arya formulating a plan."
-        },
-        {
-            "subtitle_id": 310,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Arya describing the woman."
-        },
-        {
-            "subtitle_id": 311,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Arya proposing their counter-strategy."
-        },
-        {
-            "subtitle_id": 312,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Arya repeating the name."
-        },
-        {
-            "subtitle_id": 313,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Arya continuing the dialogue."
-        },
-        {
-            "subtitle_id": 314,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
-            "confidence": "high",
-            "evidence": "Vivienne describing her own physical action."
-        },
-        {
-            "subtitle_id": 315,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
-            "confidence": "high",
-            "evidence": "Vivienne describing Arya's movement."
-        },
-        {
-            "subtitle_id": 316,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Vivienne asking a question to Arya."
-        },
-        {
-            "subtitle_id": 317,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Vivienne clarifying her question."
-        },
-        {
-            "subtitle_id": 318,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Arya answering Vivienne's question about their mother."
-        },
-        {
-            "subtitle_id": 319,
-            "speaker_id": "C006",
-            "speaker_name": "Arya",
-            "speaker_type": "character",
-            "confidence": "high",
-            "evidence": "Arya explaining the plan."
-        },
-        {
-            "subtitle_id": 320,
-            "speaker_id": "C001",
-            "speaker_name": "Vivienne",
-            "speaker_type": "inner_monologue",
-            "confidence": "high",
-            "evidence": "Vivienne noting her own pause in thought."
-        }
-    ]
+  "results": [
+    {
+      "subtitle_id": 281,
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Context and subsequent lines show Arya speaking to Vivienne about their mother."
+    },
+    {
+      "subtitle_id": 282,
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Continuation of Arya's dialogue explaining past events."
+    },
+    {
+      "subtitle_id": 283,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "inner_monologue",
+      "confidence": "high",
+      "evidence": "First-person POV narrative observation by Vivienne about Arya's tone."
+    },
+    {
+      "subtitle_id": 284,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "inner_monologue",
+      "confidence": "high",
+      "evidence": "Vivienne's internal reflection on the details."
+    },
+    {
+      "subtitle_id": 285,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "inner_monologue",
+      "confidence": "high",
+      "evidence": "Vivienne recalling the painting."
+    },
+    {
+      "subtitle_id": 286,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "inner_monologue",
+      "confidence": "high",
+      "evidence": "Continuing inner thought process of Vivienne."
+    },
+    {
+      "subtitle_id": 287,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "inner_monologue",
+      "confidence": "high",
+      "evidence": "Vivienne's internal analysis of the subject's appearance."
+    },
+    {
+      "subtitle_id": 288,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Direct dialogue spoken by Vivienne to Arya."
+    },
+    {
+      "subtitle_id": 289,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "inner_monologue",
+      "confidence": "high",
+      "evidence": "Vivienne narrating the interaction and Arya's reaction."
+    },
+    {
+      "subtitle_id": 290,
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Arya responding to Vivienne's question."
+    },
+    {
+      "subtitle_id": 291,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Vivienne continuing the conversation about meal requests."
+    },
+    {
+      "subtitle_id": 292,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Vivienne asking a follow-up question."
+    },
+    {
+      "subtitle_id": 293,
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Arya answering Vivienne."
+    },
+    {
+      "subtitle_id": 294,
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Arya mentioning the specific cake."
+    },
+    {
+      "subtitle_id": 295,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "inner_monologue",
+      "confidence": "high",
+      "evidence": "Vivienne's observation of Arya's eyes."
+    },
+    {
+      "subtitle_id": 296,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Vivienne sharing what was promised to her."
+    },
+    {
+      "subtitle_id": 297,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Continuation of Vivienne's dialogue about the mating promises."
+    },
+    {
+      "subtitle_id": 298,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Vivienne finishing her statement."
+    },
+    {
+      "subtitle_id": 299,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "inner_monologue",
+      "confidence": "high",
+      "evidence": "Vivienne describing the shared moment internally."
+    },
+    {
+      "subtitle_id": 300,
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Arya commenting on the situation."
+    },
+    {
+      "subtitle_id": 301,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "inner_monologue",
+      "confidence": "high",
+      "evidence": "Vivienne combining dialogue and internal physical action narration."
+    },
+    {
+      "subtitle_id": 302,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Vivienne confirming her statement aloud."
+    },
+    {
+      "subtitle_id": 303,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Vivienne reflecting aloud on the past years."
+    },
+    {
+      "subtitle_id": 304,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Vivienne listing the holidays and dinners."
+    },
+    {
+      "subtitle_id": 305,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Vivienne concluding her realization."
+    },
+    {
+      "subtitle_id": 306,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "inner_monologue",
+      "confidence": "high",
+      "evidence": "Vivienne describing the quiet room and Arya's changing expression."
+    },
+    {
+      "subtitle_id": 307,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "inner_monologue",
+      "confidence": "high",
+      "evidence": "Vivienne's internal assessment of Arya's expression."
+    },
+    {
+      "subtitle_id": 308,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "inner_monologue",
+      "confidence": "high",
+      "evidence": "Continuation of Vivienne's internal description."
+    },
+    {
+      "subtitle_id": 309,
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Arya formulating a plan."
+    },
+    {
+      "subtitle_id": 310,
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Arya describing the woman."
+    },
+    {
+      "subtitle_id": 311,
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Arya proposing their counter-strategy."
+    },
+    {
+      "subtitle_id": 312,
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Arya repeating the name."
+    },
+    {
+      "subtitle_id": 313,
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Arya continuing the dialogue."
+    },
+    {
+      "subtitle_id": 314,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "inner_monologue",
+      "confidence": "high",
+      "evidence": "Vivienne describing her own physical action."
+    },
+    {
+      "subtitle_id": 315,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "inner_monologue",
+      "confidence": "high",
+      "evidence": "Vivienne describing Arya's movement."
+    },
+    {
+      "subtitle_id": 316,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Vivienne asking a question to Arya."
+    },
+    {
+      "subtitle_id": 317,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Vivienne clarifying her question."
+    },
+    {
+      "subtitle_id": 318,
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Arya answering Vivienne's question about their mother."
+    },
+    {
+      "subtitle_id": 319,
+      "speaker_id": "C003",
+      "speaker_name": "Aria",
+      "speaker_type": "character",
+      "confidence": "high",
+      "evidence": "Arya explaining the plan."
+    },
+    {
+      "subtitle_id": 320,
+      "speaker_id": "C001",
+      "speaker_name": "Vivienne",
+      "speaker_type": "inner_monologue",
+      "confidence": "high",
+      "evidence": "Vivienne noting her own pause in thought."
+    }
+  ]
 }
