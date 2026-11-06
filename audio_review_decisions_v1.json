@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "title": "Husbands audio review decisions",
   "branch": "audio-review-fixes",
-  "status": "confirmed_decisions_recorded_source_files_not_yet_rewritten",
+  "status": "confirmed_decisions_applied_to_segment_transcript_and_speaker_mapping",
   "scope": "Human-confirmed audio corrections from the speaker review conversation. Apply these as authoritative overrides during transcript and speaker-map reconciliation.",
   "transcript_corrections": [
     {
@@ -78,6 +78,9 @@
     "Do not infer that the 10:51 wolfbab candidate is wolf's bane from the 05:14 confirmation; it remains unresolved unless separately supported.",
     "Do not alter speaker_assignments.json C001/C005 entries until their full role-to-character mapping has been reconciled; C-series subtitle speaker IDs are not the SPK-series diarization IDs.",
     "The large speaker_review_words_v1.json file could not be retrieved through the current GitHub connector response; do not claim its word-level entries were rewritten.",
-    "Review SEG_000084 and SEG_000209 surrounding text carefully before editing because their provider transcript contains duplicated or malformed spans."
+    "Review SEG_000084 and SEG_000209 surrounding text carefully before editing because their provider transcript contains duplicated or malformed spans.",
+    "Applied confirmed text changes to speaker_review_v1.json segments SEG_000001, SEG_000045, SEG_000084, and SEG_000209.",
+    "Mapped SPK_004 to Lucian in speaker_review_v1.json and speaker_character_mapping_v1.json.",
+    "speaker_review_words_v1.json could not be fetched with non-empty content through the connector, so word-level token timestamps were not rewritten."
   ]
 }
