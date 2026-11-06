@@ -26,8 +26,9 @@
         {
             "speaker_id": "SPK_004",
             "provider_label": "D",
-            "speaker_type": "unknown",
-            "confidence": 0.5603
+            "speaker_type": "character",
+            "confidence": 0.5603,
+            "character_name": "Lucian"
         }
     ],
     "source": {
