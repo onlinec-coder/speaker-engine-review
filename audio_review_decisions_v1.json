@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "title": "Husbands audio review decisions",
   "branch": "audio-review-fixes",
-  "status": "confirmed_decisions_applied_to_segment_transcript_and_speaker_mapping",
+  "status": "confirmed_segment_transcript_and_character_mapping_updated_word_level_file_pending",
   "scope": "Human-confirmed audio corrections from the speaker review conversation. Apply these as authoritative overrides during transcript and speaker-map reconciliation.",
   "transcript_corrections": [
     {
@@ -74,13 +74,11 @@
     }
   ],
   "implementation_notes": [
-    "Keep the original provider speaker IDs as stable diarization IDs; map SPK_004 to the character Lucian in the character mapping layer.",
-    "Do not infer that the 10:51 wolfbab candidate is wolf's bane from the 05:14 confirmation; it remains unresolved unless separately supported.",
-    "Do not alter speaker_assignments.json C001/C005 entries until their full role-to-character mapping has been reconciled; C-series subtitle speaker IDs are not the SPK-series diarization IDs.",
-    "The large speaker_review_words_v1.json file could not be retrieved through the current GitHub connector response; do not claim its word-level entries were rewritten.",
-    "Review SEG_000084 and SEG_000209 surrounding text carefully before editing because their provider transcript contains duplicated or malformed spans.",
-    "Applied confirmed text changes to speaker_review_v1.json segments SEG_000001, SEG_000045, SEG_000084, and SEG_000209.",
-    "Mapped SPK_004 to Lucian in speaker_review_v1.json and speaker_character_mapping_v1.json.",
-    "speaker_review_words_v1.json could not be fetched with non-empty content through the connector, so word-level token timestamps were not rewritten."
+    "Updated speaker_review_v1.json on branch audio-review-fixes: SEG_000001, SEG_000045, SEG_000084, and SEG_000209 transcript text corrected using confirmed audio decisions.",
+    "speaker_review_v1.json retains all 247 segments and original diarization IDs; SPK_004 metadata is mapped to character Lucian.",
+    "speaker_character_mapping_v1.json records SPK_004 as Lucian for SEG_000170, SEG_000172, and SEG_000236.",
+    "SEG_000209 was cleaned to 'Her hands were empty, her eyes were not.' after removing the user-confirmed absent phrase 'What are you doing?' and the duplicated 'empty' token.",
+    "speaker_review_words_v1.json was not modified because the GitHub connector returned an empty file body for this 2.5 MB file. Its word-level tokens and timestamps remain pending.",
+    "speaker_assignments.json C-series IDs were not changed; reconcile C-series and SPK-series identities before editing that file."
   ]
 }
