@@ -1712,7 +1712,7 @@ Vivienne,
 
 395
 00:12:30,000 --> 00:12:31,000
-She paused, it's Morgana.
+She paused. it's Morgana.
 
 396
 00:12:31,374 --> 00:12:32,333
@@ -3425,7 +3425,7 @@ needs confirmation.
 
 790
 00:25:02,000 --> 00:25:04,200
-The,silence that
+The silence that
 followed was vèry long.
 
 791
@@ -4668,7 +4668,7 @@ guards move in.
 
 1077
 00:33:40,600 --> 00:33:42,749
-Luna Valeris sarted crying.
+Luna Valeris started crying.
 
 1078
 00:33:43,200 --> 00:33:44,800
