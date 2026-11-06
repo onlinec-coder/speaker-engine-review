@@ -1712,7 +1712,7 @@ Vivienne,
 
 395
 00:12:30,000 --> 00:12:31,000
-She paused. it's Morgana.
+She paused, it's Morgana.
 
 396
 00:12:31,374 --> 00:12:32,333
@@ -3196,7 +3196,7 @@ I pulled my wrist free.
 
 738
 00:23:22,600 --> 00:23:23,749
-I did thatonce.
+I did that once.
 
 739
 00:23:24,000 --> 00:23:25,000
@@ -3283,7 +3283,7 @@ I said calmly.
 
 758
 00:23:55,800 --> 00:23:56,958
-You have the wrong.person.
+You have the wrong person.
 
 759
 00:23:57,200 --> 00:23:59,200
@@ -3318,8 +3318,7 @@ Which is why you can call
 
 766
 00:24:13,400 --> 00:24:14,800
-Chief Elder
-Laurent right now
+Chief Elder Laurent right now
 
 767
 00:24:14,800 --> 00:24:17,400
@@ -3523,7 +3522,7 @@ I ignored it.
 
 812
 00:25:51,791 --> 00:25:54,125
-Your son·has been in
+Your son has been in
 love with her for years.
 
 813
